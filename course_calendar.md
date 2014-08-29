@@ -1,3 +1,5 @@
+<!-- excerpt from MS Word crappy HTML export -->
+
 <p class=MsoNormal align=center style='text-align:center'><b style='mso-bidi-font-weight:
 normal'><span style='font-size:16.0pt;font-family:Helvetica'>Course Calendar<o:p></o:p></span></b></p>
 
