@@ -125,8 +125,9 @@ text-autospace:none'><span style='font-family:Helvetica'><o:p>&nbsp;</o:p></span
   text-autospace:none'><span style='font-family:Helvetica;mso-bidi-font-style:
   italic'>Your first programs<o:p></o:p></span></p>
   <p class=MsoNormal style='mso-pagination:none;mso-layout-grid-align:none;
-  text-autospace:none'><span style='font-family:Helvetica;mso-bidi-font-style:
-  italic'>GitHub<o:p></o:p></span></p>
+  text-autospace:none'><span class=SpellE><span style='font-family:Helvetica;
+  mso-bidi-font-style:italic'>GitHub</span></span><span style='font-family:
+  Helvetica;mso-bidi-font-style:italic'><o:p></o:p></span></p>
   </td>
   <td width=169 valign=top style='width:169.35pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
@@ -277,38 +278,44 @@ text-autospace:none'><span style='font-family:Helvetica'><o:p>&nbsp;</o:p></span
   mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt'>
   <p class=MsoNormal style='mso-pagination:none;mso-layout-grid-align:none;
   text-autospace:none'><span style='font-family:Helvetica;mso-bidi-font-style:
-  italic'>Week 2, due Sunday night (8/31)<o:p></o:p></span></p>
+  italic'>Week 2, due Monday night (9/1, 11:59 p.m.)<o:p></o:p></span></p>
   <p class=MsoListParagraphCxSpFirst style='text-indent:-.25in;mso-pagination:
   none;mso-list:l2 level1 lfo1;mso-layout-grid-align:none;text-autospace:none'><![if !supportLists]><span
   style='font-family:Symbol;mso-fareast-font-family:Symbol;mso-bidi-font-family:
   Symbol;mso-bidi-font-style:italic'><span style='mso-list:Ignore'>·<span
   style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><![endif]><span
   style='font-family:Helvetica;mso-bidi-font-style:italic'>Using
-  MyBalsamiq.com, create a sitemap and mock-up of a homepage for Unblight. Download
-  the image and BMML files. [3 pts]<o:p></o:p></span></p>
+  MyBalsamiq.com, create a sitemap and mock-up of a homepage for <span
+  class=SpellE>Unblight</span>. Download the image and BMML files. [3 <span
+  class=SpellE>pts</span>]<o:p></o:p></span></p>
   <p class=MsoListParagraphCxSpMiddle style='text-indent:-.25in;mso-pagination:
   none;mso-list:l2 level1 lfo1;mso-layout-grid-align:none;text-autospace:none'><![if !supportLists]><span
   style='font-family:Symbol;mso-fareast-font-family:Symbol;mso-bidi-font-family:
   Symbol;mso-bidi-font-style:italic'><span style='mso-list:Ignore'>·<span
   style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><![endif]><span
   style='font-family:Helvetica;mso-bidi-font-style:italic'>Create an simple
-  homepage for Unblight using relevant tags from Chapters 1 &amp; 2 [2 pts]<o:p></o:p></span></p>
+  homepage for <span class=SpellE>Unblight</span> using relevant tags from
+  Chapters 1 &amp; 2 [2 <span class=SpellE>pts</span>]<o:p></o:p></span></p>
   <p class=MsoListParagraphCxSpMiddle style='text-indent:-.25in;mso-pagination:
   none;mso-list:l2 level1 lfo1;mso-layout-grid-align:none;text-autospace:none'><![if !supportLists]><span
   style='font-family:Symbol;mso-fareast-font-family:Symbol;mso-bidi-font-family:
   Symbol;mso-bidi-font-style:italic'><span style='mso-list:Ignore'>·<span
   style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><![endif]><span
   style='font-family:Helvetica;mso-bidi-font-style:italic'>Submit your files
-  (you should have 5 of them) via GitHub. Create a “homework” directory and
-  then a “week_2” directory under that for your files.<o:p></o:p></span></p>
+  (you should have 5 of them) via <span class=SpellE>GitHub</span>. Create a
+  “homework” directory and then a “week_2” directory under that for your files.<o:p></o:p></span></p>
   <p class=MsoListParagraphCxSpLast style='text-indent:-.25in;mso-pagination:
   none;mso-list:l2 level1 lfo1;mso-layout-grid-align:none;text-autospace:none'><![if !supportLists]><span
   style='font-family:Symbol;mso-fareast-font-family:Symbol;mso-bidi-font-family:
   Symbol;mso-bidi-font-style:italic'><span style='mso-list:Ignore'>·<span
   style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><![endif]><span
   style='font-family:Helvetica;mso-bidi-font-style:italic'>Email the URL for
-  your GitHub repository to <a href="mailto:porter_tm@mercer.edu">porter_tm@mercer.edu</a>
-  .<span style="mso-spacerun:yes">&nbsp; </span><o:p></o:p></span></p>
+  your <span class=SpellE>GitHub</span> repository to </span><a
+  href="mailto:porter_tm@mercer.edu"><span style='font-family:Helvetica;
+  mso-bidi-font-style:italic'>porter_tm@mercer.edu</span></a><span class=GramE><span
+  style='font-family:Helvetica;mso-bidi-font-style:italic'> .</span></span><span
+  style='font-family:Helvetica;mso-bidi-font-style:italic'><span
+  style="mso-spacerun:yes">&nbsp; </span><o:p></o:p></span></p>
   </td>
  </tr>
  <tr style='mso-yfti-irow:5'>
@@ -405,14 +412,20 @@ text-autospace:none'><span style='font-family:Helvetica'><o:p>&nbsp;</o:p></span
   mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt'>
   <p class=MsoNormal style='mso-pagination:none;mso-layout-grid-align:none;
   text-autospace:none'><span style='font-family:Helvetica;mso-bidi-font-style:
-  italic'>Week 3 (due Sunday, 9/7)<o:p></o:p></span></p>
-  <p class=MsoListParagraph style='text-indent:-.25in;mso-pagination:none;
-  mso-list:l1 level1 lfo2;mso-layout-grid-align:none;text-autospace:none'><![if !supportLists]><span
+  italic'>Week 3, due Sunday night (9/7, 11:59 p.m.)<o:p></o:p></span></p>
+  <p class=MsoListParagraphCxSpFirst style='text-indent:-.25in;mso-pagination:
+  none;mso-list:l1 level1 lfo2;mso-layout-grid-align:none;text-autospace:none'><![if !supportLists]><span
   style='font-family:Symbol;mso-fareast-font-family:Symbol;mso-bidi-font-family:
   Symbol;mso-bidi-font-style:italic'><span style='mso-list:Ignore'>·<span
   style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><![endif]><span
   style='font-family:Helvetica;mso-bidi-font-style:italic'>Pine, 2.5 exercises
-  [5 pts]<o:p></o:p></span></p>
+  [5 <span class=SpellE>pts</span>]<o:p></o:p></span></p>
+  <p class=MsoListParagraphCxSpLast style='text-indent:-.25in;mso-pagination:
+  none;mso-list:l1 level1 lfo2;mso-layout-grid-align:none;text-autospace:none'><![if !supportLists]><span
+  style='font-family:Symbol;mso-fareast-font-family:Symbol;mso-bidi-font-family:
+  Symbol;mso-bidi-font-style:italic'><span style='mso-list:Ignore'>·<span
+  style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><![endif]><span
+  style='font-family:Helvetica;mso-bidi-font-style:italic'>TK<o:p></o:p></span></p>
   </td>
  </tr>
  <tr style='mso-yfti-irow:7'>
@@ -637,7 +650,7 @@ text-autospace:none'><span style='font-family:Helvetica'><o:p>&nbsp;</o:p></span
   mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt'>
   <p class=MsoNormal style='mso-pagination:none;mso-layout-grid-align:none;
   text-autospace:none'><span style='font-family:Helvetica;mso-bidi-font-style:
-  italic'>JavaScript Events &amp; jQuery<o:p></o:p></span></p>
+  italic'>JavaScript Events &amp; <span class=SpellE>jQuery</span><o:p></o:p></span></p>
   <p class=MsoNormal style='mso-pagination:none;mso-layout-grid-align:none;
   text-autospace:none'><span style='font-family:Helvetica;mso-bidi-font-style:
   italic'>Ruby Objects I<o:p></o:p></span></p>
@@ -857,7 +870,7 @@ text-autospace:none'><span style='font-family:Helvetica'><o:p>&nbsp;</o:p></span
   italic'>Content Panels<o:p></o:p></span></p>
   <p class=MsoNormal style='mso-pagination:none;mso-layout-grid-align:none;
   text-autospace:none'><span style='font-family:Helvetica;mso-bidi-font-style:
-  italic'>Ruby Blocks &amp; Procs<o:p></o:p></span></p>
+  italic'>Ruby Blocks &amp; <span class=SpellE>Procs</span><o:p></o:p></span></p>
   </td>
   <td width=169 valign=top style='width:169.35pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
@@ -1395,7 +1408,7 @@ text-autospace:none'><span style='font-family:Helvetica'><o:p>&nbsp;</o:p></span
   mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt'>
   <p class=MsoNormal style='mso-pagination:none;mso-layout-grid-align:none;
   text-autospace:none'><span style='font-family:Helvetica;mso-bidi-font-style:
-  italic'>[maybe] Ruby Recursions &amp; Sorting<o:p></o:p></span></p>
+  italic'>[<span class=GramE>maybe</span>] Ruby Recursions &amp; Sorting<o:p></o:p></span></p>
   </td>
   <td width=169 valign=top style='width:169.35pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
