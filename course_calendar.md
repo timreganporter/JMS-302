@@ -1,1705 +1,898 @@
-<!-- excerpt from MS Word crappy HTML export -->
+<!-- converting from MS Word via http://htmleditor.in/index.html -->
 
-<p class=MsoNormal align=center style='text-align:center'><b style='mso-bidi-font-weight:
-normal'><span style='font-size:16.0pt;font-family:Helvetica'>Course Calendar<o:p></o:p></span></b></p>
-
-<p class=MsoTitle><span style='font-family:Helvetica;font-weight:normal'>JMS
-302: Hacking the Media, Fall 2014<o:p></o:p></span></p>
-
-<p class=MsoNormal style='mso-pagination:none;mso-layout-grid-align:none;
-text-autospace:none'><span style='font-size:16.0pt;font-family:Helvetica'><o:p>&nbsp;</o:p></span></p>
-
-<p class=MsoNormal style='mso-pagination:none;mso-layout-grid-align:none;
-text-autospace:none'><span style='font-family:Helvetica'>The following lays out
-the basic structure of the class. The schedule is subject to change based on
-the needs and progress of the course.&nbsp;Changes to the schedule are
-announced in class; even if you are absent for the announcement, you are still
-responsible for the assignment and must get it from a classmate.<o:p></o:p></span></p>
-
-<p class=MsoNormal style='mso-pagination:none;mso-layout-grid-align:none;
-text-autospace:none'><span style='font-family:Helvetica;mso-bidi-font-family:
-Arial'><o:p>&nbsp;</o:p></span></p>
-
-<p class=MsoNormal style='mso-pagination:none;mso-layout-grid-align:none;
-text-autospace:none'><span style='font-family:Helvetica'><o:p>&nbsp;</o:p></span></p>
-
-<table class=MsoTableGrid border=1 cellspacing=0 cellpadding=0
- style='margin-left:9.9pt;border-collapse:collapse;border:none;mso-border-alt:
- solid windowtext .5pt;mso-yfti-tbllook:1184;mso-padding-alt:0in 5.4pt 0in 5.4pt'>
- <tr style='mso-yfti-irow:0;mso-yfti-firstrow:yes'>
-  <td width=41 valign=top style='width:40.85pt;border:solid windowtext 1.0pt;
-  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt'>
-  <p class=MsoNormal style='mso-pagination:none;mso-layout-grid-align:none;
-  text-autospace:none'><b style='mso-bidi-font-weight:normal'><span
-  style='font-family:Helvetica;mso-bidi-font-style:italic'>Date<o:p></o:p></span></b></p>
-  </td>
-  <td width=24 valign=top style='width:24.15pt;border:solid windowtext 1.0pt;
-  border-left:none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
-  solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt'>
-  <p class=MsoNormal style='mso-pagination:none;mso-layout-grid-align:none;
-  text-autospace:none'><b style='mso-bidi-font-weight:normal'><span
-  style='font-family:Helvetica;mso-bidi-font-style:italic'><o:p>&nbsp;</o:p></span></b></p>
-  </td>
-  <td width=148 valign=top style='width:148.15pt;border:solid windowtext 1.0pt;
-  border-left:none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
-  solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt'>
-  <p class=MsoNormal style='mso-pagination:none;mso-layout-grid-align:none;
-  text-autospace:none'><b style='mso-bidi-font-weight:normal'><span
-  style='font-family:Helvetica;mso-bidi-font-style:italic'>Topics<o:p></o:p></span></b></p>
-  </td>
-  <td width=169 valign=top style='width:169.35pt;border:solid windowtext 1.0pt;
-  border-left:none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
-  solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt'>
-  <p class=MsoNormal style='mso-pagination:none;mso-layout-grid-align:none;
-  text-autospace:none'><b style='mso-bidi-font-weight:normal'><span
-  style='font-family:Helvetica;mso-bidi-font-style:italic'>Reading<o:p></o:p></span></b></p>
-  </td>
-  <td width=266 valign=top style='width:3.7in;border:solid windowtext 1.0pt;
-  border-left:none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
-  solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt'>
-  <p class=MsoNormal style='mso-pagination:none;mso-layout-grid-align:none;
-  text-autospace:none'><b style='mso-bidi-font-weight:normal'><span
-  style='font-family:Helvetica;mso-bidi-font-style:italic'>Homework<o:p></o:p></span></b></p>
-  </td>
- </tr>
- <tr style='mso-yfti-irow:1'>
-  <td width=41 valign=top style='width:40.85pt;border:solid windowtext 1.0pt;
-  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
-  padding:0in 5.4pt 0in 5.4pt'>
-  <p class=MsoNormal style='mso-pagination:none;mso-layout-grid-align:none;
-  text-autospace:none'><span style='font-family:Helvetica;mso-bidi-font-style:
-  italic'>8/19<o:p></o:p></span></p>
-  </td>
-  <td width=24 valign=top style='width:24.15pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt'>
-  <p class=MsoNormal style='mso-pagination:none;mso-layout-grid-align:none;
-  text-autospace:none'><span style='font-family:Helvetica;mso-bidi-font-style:
-  italic'>1<o:p></o:p></span></p>
-  </td>
-  <td width=148 valign=top style='width:148.15pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt'>
-  <p class=MsoNormal style='mso-pagination:none;mso-layout-grid-align:none;
-  text-autospace:none'><span style='font-family:Helvetica;mso-bidi-font-style:
-  italic'>Introduction, setup, Intro to the command line<o:p></o:p></span></p>
-  </td>
-  <td width=169 valign=top style='width:169.35pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt'>
-  <p class=MsoNormal style='mso-pagination:none;mso-layout-grid-align:none;
-  text-autospace:none'><span style='font-family:Helvetica;mso-bidi-font-style:
-  italic'><o:p>&nbsp;</o:p></span></p>
-  </td>
-  <td width=266 valign=top style='width:3.7in;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt'>
-  <p class=MsoNormal style='mso-pagination:none;mso-layout-grid-align:none;
-  text-autospace:none'><span style='font-family:Helvetica;mso-bidi-font-style:
-  italic'>Create GitHub.com account (free level).<o:p></o:p></span></p>
-  </td>
- </tr>
- <tr style='mso-yfti-irow:2'>
-  <td width=41 valign=top style='width:40.85pt;border:solid windowtext 1.0pt;
-  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
-  padding:0in 5.4pt 0in 5.4pt'>
-  <p class=MsoNormal style='mso-pagination:none;mso-layout-grid-align:none;
-  text-autospace:none'><span style='font-family:Helvetica;mso-bidi-font-style:
-  italic'>8/21<o:p></o:p></span></p>
-  </td>
-  <td width=24 valign=top style='width:24.15pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt'>
-  <p class=MsoNormal style='mso-pagination:none;mso-layout-grid-align:none;
-  text-autospace:none'><span style='font-family:Helvetica;mso-bidi-font-style:
-  italic'>2<o:p></o:p></span></p>
-  </td>
-  <td width=148 valign=top style='width:148.15pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt'>
-  <p class=MsoNormal style='mso-pagination:none;mso-layout-grid-align:none;
-  text-autospace:none'><span style='font-family:Helvetica;mso-bidi-font-style:
-  italic'>Your first programs<o:p></o:p></span></p>
-  <p class=MsoNormal style='mso-pagination:none;mso-layout-grid-align:none;
-  text-autospace:none'><span class=SpellE><span style='font-family:Helvetica;
-  mso-bidi-font-style:italic'>GitHub</span></span><span style='font-family:
-  Helvetica;mso-bidi-font-style:italic'><o:p></o:p></span></p>
-  </td>
-  <td width=169 valign=top style='width:169.35pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt'>
-  <p class=MsoNormal style='mso-pagination:none;mso-layout-grid-align:none;
-  text-autospace:none'><a href="http://bit.ly/hacking-1"><span
-  style='font-family:Helvetica;mso-bidi-font-style:italic'>http://bit.ly/hacking-1</span></a><span
-  style='font-family:Helvetica;mso-bidi-font-style:italic'><o:p></o:p></span></p>
-  </td>
-  <td width=266 valign=top style='width:3.7in;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt'>
-  <p class=MsoNormal style='mso-pagination:none;mso-layout-grid-align:none;
-  text-autospace:none'><span style='font-family:Helvetica;mso-bidi-font-style:
-  italic'>Week 1: <o:p></o:p></span></p>
-  <p class=MsoListParagraphCxSpFirst style='text-indent:-.25in;mso-pagination:
-  none;mso-list:l0 level1 lfo3;mso-layout-grid-align:none;text-autospace:none'><![if !supportLists]><span
-  style='font-family:Symbol;mso-fareast-font-family:Symbol;mso-bidi-font-family:
-  Symbol;mso-bidi-font-style:italic'><span style='mso-list:Ignore'>·<span
-  style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><![endif]><span
-  style='font-family:Helvetica;mso-bidi-font-style:italic'>Create a trial
-  account on MyBalsamiq.com (you’ll be invited to group projects later, which
-  don't require paid accounts)<o:p></o:p></span></p>
-  <p class=MsoListParagraphCxSpLast style='text-indent:-.25in;mso-pagination:
-  none;mso-list:l0 level1 lfo3;mso-layout-grid-align:none;text-autospace:none'><![if !supportLists]><span
-  style='font-family:Symbol;mso-fareast-font-family:Symbol;mso-bidi-font-family:
-  Symbol;mso-bidi-font-style:italic'><span style='mso-list:Ignore'>·<span
-  style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><![endif]><span
-  style='font-family:Helvetica;mso-bidi-font-style:italic'>Make sure you finish
-  the readings originally assigned for this week, including Pine (which is
-  available in the bookstore)<o:p></o:p></span></p>
-  </td>
- </tr>
- <tr style='mso-yfti-irow:3'>
-  <td width=41 valign=top style='width:40.85pt;border:solid windowtext 1.0pt;
-  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
-  padding:0in 5.4pt 0in 5.4pt'>
-  <p class=MsoNormal style='mso-pagination:none;mso-layout-grid-align:none;
-  text-autospace:none'><span style='font-family:Helvetica;mso-bidi-font-style:
-  italic'>8/26<o:p></o:p></span></p>
-  </td>
-  <td width=24 valign=top style='width:24.15pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt'>
-  <p class=MsoNormal style='mso-pagination:none;mso-layout-grid-align:none;
-  text-autospace:none'><span style='font-family:Helvetica;mso-bidi-font-style:
-  italic'>3<o:p></o:p></span></p>
-  </td>
-  <td width=148 valign=top style='width:148.15pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt'>
-  <p class=MsoNormal style='mso-pagination:none;mso-layout-grid-align:none;
-  text-autospace:none'><span style='font-family:Helvetica;mso-bidi-font-style:
-  italic'>Planning your program &amp; your layout<o:p></o:p></span></p>
-  <p class=MsoNormal style='mso-pagination:none;mso-layout-grid-align:none;
-  text-autospace:none'><span style='font-family:Helvetica;mso-bidi-font-style:
-  italic'><o:p>&nbsp;</o:p></span></p>
-  <p class=MsoNormal style='mso-pagination:none;mso-layout-grid-align:none;
-  text-autospace:none'><span style='font-family:Helvetica;mso-bidi-font-style:
-  italic'>HTML Structure &amp; Text<o:p></o:p></span></p>
-  <p class=MsoNormal style='mso-pagination:none;mso-layout-grid-align:none;
-  text-autospace:none'><span style='font-family:Helvetica;mso-bidi-font-style:
-  italic'><o:p>&nbsp;</o:p></span></p>
-  </td>
-  <td width=169 valign=top style='width:169.35pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt'>
-  <p class=MsoNormal style='mso-pagination:none;mso-layout-grid-align:none;
-  text-autospace:none'><span style='font-family:Helvetica;mso-bidi-font-style:
-  italic'>HTML, Intro &amp; Chapter 18<o:p></o:p></span></p>
-  <p class=MsoNormal style='mso-pagination:none;mso-layout-grid-align:none;
-  text-autospace:none'><span style='font-family:Helvetica;mso-bidi-font-style:
-  italic'>JavaScript, Intro &amp; Chapter 1<o:p></o:p></span></p>
-  <p class=MsoNormal style='mso-pagination:none;mso-layout-grid-align:none;
-  text-autospace:none'><span style='font-family:Helvetica;mso-bidi-font-style:
-  italic'><o:p>&nbsp;</o:p></span></p>
-  <p class=MsoNormal style='mso-pagination:none;mso-layout-grid-align:none;
-  text-autospace:none'><span style='font-family:Helvetica;mso-bidi-font-style:
-  italic'>HTML, Chapters 1 &amp; 2<o:p></o:p></span></p>
-  <p class=MsoNormal style='mso-pagination:none;mso-layout-grid-align:none;
-  text-autospace:none'><span style='font-family:Helvetica;mso-bidi-font-style:
-  italic'><o:p>&nbsp;</o:p></span></p>
-  </td>
-  <td width=266 valign=top style='width:3.7in;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt'>
-  <p class=MsoNormal style='mso-pagination:none;mso-layout-grid-align:none;
-  text-autospace:none'><span style='font-family:Helvetica;mso-bidi-font-style:
-  italic'><o:p>&nbsp;</o:p></span></p>
-  <p class=MsoNormal style='mso-pagination:none;mso-layout-grid-align:none;
-  text-autospace:none'><span style='font-family:Helvetica;mso-bidi-font-style:
-  italic'><o:p>&nbsp;</o:p></span></p>
-  </td>
- </tr>
- <tr style='mso-yfti-irow:4'>
-  <td width=41 valign=top style='width:40.85pt;border:solid windowtext 1.0pt;
-  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
-  padding:0in 5.4pt 0in 5.4pt'>
-  <p class=MsoNormal style='mso-pagination:none;mso-layout-grid-align:none;
-  text-autospace:none'><span style='font-family:Helvetica;mso-bidi-font-style:
-  italic'>8/28<o:p></o:p></span></p>
-  </td>
-  <td width=24 valign=top style='width:24.15pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt'>
-  <p class=MsoNormal style='mso-pagination:none;mso-layout-grid-align:none;
-  text-autospace:none'><span style='font-family:Helvetica;mso-bidi-font-style:
-  italic'>4<o:p></o:p></span></p>
-  </td>
-  <td width=148 valign=top style='width:148.15pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt'>
-  <p class=MsoNormal style='mso-pagination:none;mso-layout-grid-align:none;
-  text-autospace:none'><span style='font-family:Helvetica;mso-bidi-font-style:
-  italic'>HTML Formatting<o:p></o:p></span></p>
-  <p class=MsoNormal style='mso-pagination:none;mso-layout-grid-align:none;
-  text-autospace:none'><span style='font-family:Helvetica;mso-bidi-font-style:
-  italic'><o:p>&nbsp;</o:p></span></p>
-  <p class=MsoNormal style='mso-pagination:none;mso-layout-grid-align:none;
-  text-autospace:none'><span style='font-family:Helvetica;mso-bidi-font-style:
-  italic'>Getting Started in Ruby<o:p></o:p></span></p>
-  </td>
-  <td width=169 valign=top style='width:169.35pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt'>
-  <p class=MsoNormal style='mso-pagination:none;mso-layout-grid-align:none;
-  text-autospace:none'><span style='font-family:Helvetica;mso-bidi-font-style:
-  italic'>HTML, Chapters 3-5<o:p></o:p></span></p>
-  <p class=MsoNormal style='mso-pagination:none;mso-layout-grid-align:none;
-  text-autospace:none'><span style='font-family:Helvetica;mso-bidi-font-style:
-  italic'><o:p>&nbsp;</o:p></span></p>
-  <p class=MsoNormal style='mso-pagination:none;mso-layout-grid-align:none;
-  text-autospace:none'><span style='font-family:Helvetica;mso-bidi-font-style:
-  italic'>Pine, Intro &amp; Chapters 2-4<o:p></o:p></span></p>
-  </td>
-  <td width=266 valign=top style='width:3.7in;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt'>
-  <p class=MsoNormal style='mso-pagination:none;mso-layout-grid-align:none;
-  text-autospace:none'><span style='font-family:Helvetica;mso-bidi-font-style:
-  italic'>Week 2, due Monday night (9/1, 11:59 p.m.)<o:p></o:p></span></p>
-  <p class=MsoListParagraphCxSpFirst style='text-indent:-.25in;mso-pagination:
-  none;mso-list:l3 level1 lfo1;mso-layout-grid-align:none;text-autospace:none'><![if !supportLists]><span
-  style='font-family:Symbol;mso-fareast-font-family:Symbol;mso-bidi-font-family:
-  Symbol;mso-bidi-font-style:italic'><span style='mso-list:Ignore'>·<span
-  style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><![endif]><span
-  style='font-family:Helvetica;mso-bidi-font-style:italic'>Using
-  MyBalsamiq.com, create a sitemap and mock-up of a homepage for <span
-  class=SpellE>Unblight</span>. Download the image and BMML files. [3 <span
-  class=SpellE>pts</span>]<o:p></o:p></span></p>
-  <p class=MsoListParagraphCxSpMiddle style='text-indent:-.25in;mso-pagination:
-  none;mso-list:l3 level1 lfo1;mso-layout-grid-align:none;text-autospace:none'><![if !supportLists]><span
-  style='font-family:Symbol;mso-fareast-font-family:Symbol;mso-bidi-font-family:
-  Symbol;mso-bidi-font-style:italic'><span style='mso-list:Ignore'>·<span
-  style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><![endif]><span
-  style='font-family:Helvetica;mso-bidi-font-style:italic'>Create an simple
-  homepage for <span class=SpellE>Unblight</span> using relevant tags from
-  Chapters 1 &amp; 2 [2 <span class=SpellE>pts</span>]<o:p></o:p></span></p>
-  <p class=MsoListParagraphCxSpMiddle style='text-indent:-.25in;mso-pagination:
-  none;mso-list:l3 level1 lfo1;mso-layout-grid-align:none;text-autospace:none'><![if !supportLists]><span
-  style='font-family:Symbol;mso-fareast-font-family:Symbol;mso-bidi-font-family:
-  Symbol;mso-bidi-font-style:italic'><span style='mso-list:Ignore'>·<span
-  style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><![endif]><span
-  style='font-family:Helvetica;mso-bidi-font-style:italic'>Submit your files
-  (you should have 5 of them) via <span class=SpellE>GitHub</span>. Create a
-  “homework” directory and then a “week_2” directory under that for your files.<o:p></o:p></span></p>
-  <p class=MsoListParagraphCxSpLast style='text-indent:-.25in;mso-pagination:
-  none;mso-list:l3 level1 lfo1;mso-layout-grid-align:none;text-autospace:none'><![if !supportLists]><span
-  style='font-family:Symbol;mso-fareast-font-family:Symbol;mso-bidi-font-family:
-  Symbol;mso-bidi-font-style:italic'><span style='mso-list:Ignore'>·<span
-  style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><![endif]><span
-  style='font-family:Helvetica;mso-bidi-font-style:italic'>Email the URL for
-  your <span class=SpellE>GitHub</span> repository to </span><a
-  href="mailto:porter_tm@mercer.edu"><span style='font-family:Helvetica;
-  mso-bidi-font-style:italic'>porter_tm@mercer.edu</span></a><span class=GramE><span
-  style='font-family:Helvetica;mso-bidi-font-style:italic'> .</span></span><span
-  style='font-family:Helvetica;mso-bidi-font-style:italic'><span
-  style="mso-spacerun:yes">&nbsp; </span><o:p></o:p></span></p>
-  </td>
- </tr>
- <tr style='mso-yfti-irow:5'>
-  <td width=41 valign=top style='width:40.85pt;border:solid windowtext 1.0pt;
-  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
-  padding:0in 5.4pt 0in 5.4pt'>
-  <p class=MsoNormal style='mso-pagination:none;mso-layout-grid-align:none;
-  text-autospace:none'><span style='font-family:Helvetica;mso-bidi-font-style:
-  italic'>9/2<o:p></o:p></span></p>
-  </td>
-  <td width=24 valign=top style='width:24.15pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt'>
-  <p class=MsoNormal style='mso-pagination:none;mso-layout-grid-align:none;
-  text-autospace:none'><span style='font-family:Helvetica;mso-bidi-font-style:
-  italic'>5<o:p></o:p></span></p>
-  </td>
-  <td width=148 valign=top style='width:148.15pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt'>
-  <p class=MsoNormal style='mso-pagination:none;mso-layout-grid-align:none;
-  text-autospace:none'><span style='font-family:Helvetica;mso-bidi-font-style:
-  italic'>Ruby Methods<o:p></o:p></span></p>
-  <p class=MsoNormal style='mso-pagination:none;mso-layout-grid-align:none;
-  text-autospace:none'><span style='font-family:Helvetica;mso-bidi-font-style:
-  italic'><o:p>&nbsp;</o:p></span></p>
-  </td>
-  <td width=169 valign=top style='width:169.35pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt'>
-  <p class=MsoNormal style='mso-pagination:none;mso-layout-grid-align:none;
-  text-autospace:none'><span style='font-family:Helvetica;mso-bidi-font-style:
-  italic'>Pine, Chapters 5-6<o:p></o:p></span></p>
-  <p class=MsoNormal style='mso-pagination:none;mso-layout-grid-align:none;
-  text-autospace:none'><span style='font-family:Helvetica;mso-bidi-font-style:
-  italic'><o:p>&nbsp;</o:p></span></p>
-  </td>
-  <td width=266 valign=top style='width:3.7in;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt'>
-  <p class=MsoNormal style='mso-pagination:none;mso-layout-grid-align:none;
-  text-autospace:none'><span style='font-family:Helvetica;mso-bidi-font-style:
-  italic'><o:p>&nbsp;</o:p></span></p>
-  </td>
- </tr>
- <tr style='mso-yfti-irow:6'>
-  <td width=41 valign=top style='width:40.85pt;border:solid windowtext 1.0pt;
-  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
-  padding:0in 5.4pt 0in 5.4pt'>
-  <p class=MsoNormal style='mso-pagination:none;mso-layout-grid-align:none;
-  text-autospace:none'><span style='font-family:Helvetica;mso-bidi-font-style:
-  italic'>9/4<o:p></o:p></span></p>
-  </td>
-  <td width=24 valign=top style='width:24.15pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt'>
-  <p class=MsoNormal style='mso-pagination:none;mso-layout-grid-align:none;
-  text-autospace:none'><span style='font-family:Helvetica;mso-bidi-font-style:
-  italic'>6<o:p></o:p></span></p>
-  </td>
-  <td width=148 valign=top style='width:148.15pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt'>
-  <p class=MsoNormal style='mso-pagination:none;mso-layout-grid-align:none;
-  text-autospace:none'><span style='font-family:Helvetica;mso-bidi-font-style:
-  italic'>Ruby Flow Control, Arrays &amp; Iterators<o:p></o:p></span></p>
-  <p class=MsoNormal style='mso-pagination:none;mso-layout-grid-align:none;
-  text-autospace:none'><span style='font-family:Helvetica;mso-bidi-font-style:
-  italic'><o:p>&nbsp;</o:p></span></p>
-  </td>
-  <td width=169 valign=top style='width:169.35pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt'>
-  <p class=MsoNormal style='mso-pagination:none;mso-layout-grid-align:none;
-  text-autospace:none'><span style='font-family:Helvetica;mso-bidi-font-style:
-  italic'>Pine, Chapters 7 &amp; 8<o:p></o:p></span></p>
-  <p class=MsoNormal style='mso-pagination:none;mso-layout-grid-align:none;
-  text-autospace:none'><span style='font-family:Helvetica;mso-bidi-font-style:
-  italic'><o:p>&nbsp;</o:p></span></p>
-  <p class=MsoNormal style='mso-pagination:none;mso-layout-grid-align:none;
-  text-autospace:none'><span style='font-family:Helvetica;mso-bidi-font-style:
-  italic'><o:p>&nbsp;</o:p></span></p>
-  </td>
-  <td width=266 valign=top style='width:3.7in;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt'>
-  <p class=MsoNormal style='mso-pagination:none;mso-layout-grid-align:none;
-  text-autospace:none'><span style='font-family:Helvetica;mso-bidi-font-style:
-  italic'>Week 3, due Sunday night (9/7, 11:59 p.m.)<o:p></o:p></span></p>
-  <p class=MsoListParagraphCxSpFirst style='text-indent:-.25in;mso-pagination:
-  none;mso-list:l1 level1 lfo2;mso-layout-grid-align:none;text-autospace:none'><![if !supportLists]><span
-  style='font-family:Symbol;mso-fareast-font-family:Symbol;mso-bidi-font-family:
-  Symbol;mso-bidi-font-style:italic'><span style='mso-list:Ignore'>·<span
-  style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><![endif]><span
-  style='font-family:Helvetica;mso-bidi-font-style:italic'>Pine, 2.5 exercises
-  [1 <span class=SpellE>pts</span>]<o:p></o:p></span></p>
-  <p class=MsoListParagraphCxSpMiddle style='text-indent:-.25in;mso-pagination:
-  none;mso-list:l1 level1 lfo2;mso-layout-grid-align:none;text-autospace:none'><![if !supportLists]><span
-  style='font-family:Symbol;mso-fareast-font-family:Symbol;mso-bidi-font-family:
-  Symbol;mso-bidi-font-style:italic'><span style='mso-list:Ignore'>·<span
-  style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><![endif]><span
-  style='font-family:Helvetica;mso-bidi-font-style:italic'>Pine, 5.6 exercises
-  [2 <span class=SpellE>pts</span>]<o:p></o:p></span></p>
-  <p class=MsoListParagraphCxSpMiddle style='text-indent:-.25in;mso-pagination:
-  none;mso-list:l1 level1 lfo2;mso-layout-grid-align:none;text-autospace:none'><![if !supportLists]><span
-  style='font-family:Symbol;mso-fareast-font-family:Symbol;mso-bidi-font-family:
-  Symbol;mso-bidi-font-style:italic'><span style='mso-list:Ignore'>·<span
-  style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><![endif]><span
-  style='font-family:Helvetica;mso-bidi-font-style:italic'>Pine, 6.2: Angry
-  Boss [2 <span class=SpellE>pts</span>] <o:p></o:p></span></p>
-  <p class=MsoListParagraphCxSpMiddle style='text-indent:-.25in;mso-pagination:
-  none;mso-list:l1 level1 lfo2;mso-layout-grid-align:none;text-autospace:none'><![if !supportLists]><span
-  style='font-family:Symbol;mso-fareast-font-family:Symbol;mso-bidi-font-family:
-  Symbol;mso-bidi-font-style:italic'><span style='mso-list:Ignore'>·<span
-  style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><![endif]><span
-  style='font-family:Helvetica;mso-bidi-font-style:italic'>Pine, 7.5: Deaf
-  Grandma (all the exercises are recommended) [3 <span class=SpellE>pts</span>]<o:p></o:p></span></p>
-  <p class=MsoListParagraphCxSpMiddle style='text-indent:-.25in;mso-pagination:
-  none;mso-list:l1 level1 lfo2;mso-layout-grid-align:none;text-autospace:none'><![if !supportLists]><span
-  style='font-family:Symbol;mso-fareast-font-family:Symbol;mso-bidi-font-family:
-  Symbol;mso-bidi-font-style:italic'><span style='mso-list:Ignore'>·<span
-  style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><![endif]><span
-  style='font-family:Helvetica;mso-bidi-font-style:italic'>Pine, 8.3: Building
-  and sorting an array [2 <span class=SpellE>pts</span>]<o:p></o:p></span></p>
-  <p class=MsoListParagraphCxSpLast style='text-indent:-.25in;mso-pagination:
-  none;mso-list:l1 level1 lfo2;mso-layout-grid-align:none;text-autospace:none'><![if !supportLists]><span
-  style='font-family:Symbol;mso-fareast-font-family:Symbol;mso-bidi-font-family:
-  Symbol;mso-bidi-font-style:italic'><span style='mso-list:Ignore'>·<span
-  style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><![endif]><span
-  style='font-family:Helvetica;mso-bidi-font-style:italic'>Submit via <span
-  class=SpellE>GitHub</span>, “week_3” directory within your “homework”<o:p></o:p></span></p>
-  </td>
- </tr>
- <tr style='mso-yfti-irow:7'>
-  <td width=41 valign=top style='width:40.85pt;border:solid windowtext 1.0pt;
-  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
-  padding:0in 5.4pt 0in 5.4pt'>
-  <p class=MsoNormal style='mso-pagination:none;mso-layout-grid-align:none;
-  text-autospace:none'><span style='font-family:Helvetica;mso-bidi-font-style:
-  italic'>9/9<o:p></o:p></span></p>
-  </td>
-  <td width=24 valign=top style='width:24.15pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt'>
-  <p class=MsoNormal style='mso-pagination:none;mso-layout-grid-align:none;
-  text-autospace:none'><span style='font-family:Helvetica;mso-bidi-font-style:
-  italic'>7<o:p></o:p></span></p>
-  </td>
-  <td width=148 valign=top style='width:148.15pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt'>
-  <p class=MsoNormal style='mso-pagination:none;mso-layout-grid-align:none;
-  text-autospace:none'><span style='font-family:Helvetica;mso-bidi-font-style:
-  italic'>(Class starts at 9:35) Ruby exercises<o:p></o:p></span></p>
-  </td>
-  <td width=169 valign=top style='width:169.35pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt'>
-  <p class=MsoNormal style='mso-pagination:none;mso-layout-grid-align:none;
-  text-autospace:none'><span style='font-family:Helvetica;mso-bidi-font-style:
-  italic'><o:p>&nbsp;</o:p></span></p>
-  </td>
-  <td width=266 valign=top style='width:3.7in;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt'>
-  <p class=MsoNormal style='mso-pagination:none;mso-layout-grid-align:none;
-  text-autospace:none'><span style='font-family:Helvetica;mso-bidi-font-style:
-  italic'><o:p>&nbsp;</o:p></span></p>
-  </td>
- </tr>
- <tr style='mso-yfti-irow:8'>
-  <td width=41 valign=top style='width:40.85pt;border:solid windowtext 1.0pt;
-  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
-  padding:0in 5.4pt 0in 5.4pt'>
-  <p class=MsoNormal style='mso-pagination:none;mso-layout-grid-align:none;
-  text-autospace:none'><span style='font-family:Helvetica;mso-bidi-font-style:
-  italic'>9/11<o:p></o:p></span></p>
-  </td>
-  <td width=24 valign=top style='width:24.15pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt'>
-  <p class=MsoNormal style='mso-pagination:none;mso-layout-grid-align:none;
-  text-autospace:none'><span style='font-family:Helvetica;mso-bidi-font-style:
-  italic'>8<o:p></o:p></span></p>
-  </td>
-  <td width=148 valign=top style='width:148.15pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt'>
-  <p class=MsoNormal style='mso-pagination:none;mso-layout-grid-align:none;
-  text-autospace:none'><span style='font-family:Helvetica;mso-bidi-font-style:
-  italic'>Intro to CSS<o:p></o:p></span></p>
-  <p class=MsoNormal style='mso-pagination:none;mso-layout-grid-align:none;
-  text-autospace:none'><span style='font-family:Helvetica;mso-bidi-font-style:
-  italic'>Ruby Writing Your Own Methods<o:p></o:p></span></p>
-  </td>
-  <td width=169 valign=top style='width:169.35pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt'>
-  <p class=MsoNormal style='mso-pagination:none;mso-layout-grid-align:none;
-  text-autospace:none'><span style='font-family:Helvetica;mso-bidi-font-style:
-  italic'>HTML, Chapters 8 &amp; 10<o:p></o:p></span></p>
-  <p class=MsoNormal style='mso-pagination:none;mso-layout-grid-align:none;
-  text-autospace:none'><span style='font-family:Helvetica;mso-bidi-font-style:
-  italic'>Pine, Chapters 9<o:p></o:p></span></p>
-  <p class=MsoNormal style='mso-pagination:none;mso-layout-grid-align:none;
-  text-autospace:none'><span style='font-family:Helvetica;mso-bidi-font-style:
-  italic'><o:p>&nbsp;</o:p></span></p>
-  </td>
-  <td width=266 valign=top style='width:3.7in;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt'>
-  <p class=MsoNormal style='mso-pagination:none;mso-layout-grid-align:none;
-  text-autospace:none'><span style='font-family:Helvetica;mso-bidi-font-style:
-  italic'>Week 4, due Sunday night (9/14, 11:59 p.m.)<o:p></o:p></span></p>
-  <p class=MsoListParagraphCxSpFirst style='text-indent:-.25in;mso-pagination:
-  none;mso-list:l2 level1 lfo4;mso-layout-grid-align:none;text-autospace:none'><![if !supportLists]><span
-  style='font-family:Symbol;mso-fareast-font-family:Symbol;mso-bidi-font-family:
-  Symbol;mso-bidi-font-style:italic'><span style='mso-list:Ignore'>·<span
-  style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><![endif]><span
-  style='font-family:Helvetica;mso-bidi-font-style:italic'>In-class exercises
-  this week [5 <span class=SpellE>pts</span>]<o:p></o:p></span></p>
-  <p class=MsoListParagraphCxSpLast style='text-indent:-.25in;mso-pagination:
-  none;mso-list:l2 level1 lfo4;mso-layout-grid-align:none;text-autospace:none'><![if !supportLists]><span
-  style='font-family:Symbol;mso-fareast-font-family:Symbol;mso-bidi-font-family:
-  Symbol;mso-bidi-font-style:italic'><span style='mso-list:Ignore'>·<span
-  style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><![endif]><span
-  style='font-family:Helvetica;mso-bidi-font-style:italic'>Code Academy Ruby?<o:p></o:p></span></p>
-  </td>
- </tr>
- <tr style='mso-yfti-irow:9'>
-  <td width=41 valign=top style='width:40.85pt;border:solid windowtext 1.0pt;
-  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
-  padding:0in 5.4pt 0in 5.4pt'>
-  <p class=MsoNormal style='mso-pagination:none;mso-layout-grid-align:none;
-  text-autospace:none'><span style='font-family:Helvetica;mso-bidi-font-style:
-  italic'>9/16<o:p></o:p></span></p>
-  </td>
-  <td width=24 valign=top style='width:24.15pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt'>
-  <p class=MsoNormal style='mso-pagination:none;mso-layout-grid-align:none;
-  text-autospace:none'><span style='font-family:Helvetica;mso-bidi-font-style:
-  italic'>9<o:p></o:p></span></p>
-  </td>
-  <td width=148 valign=top style='width:148.15pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt'>
-  <p class=MsoNormal style='mso-pagination:none;tab-stops:171.2pt;mso-layout-grid-align:
-  none;text-autospace:none'><span style='font-family:Helvetica;mso-bidi-font-style:
-  italic'>CSS Colors, Text, Images <o:p></o:p></span></p>
-  <p class=MsoNormal style='mso-pagination:none;tab-stops:171.2pt;mso-layout-grid-align:
-  none;text-autospace:none'><span style='font-family:Helvetica;mso-bidi-font-style:
-  italic'>Embedding, Useful Tools<o:p></o:p></span></p>
-  <p class=MsoNormal style='mso-pagination:none;mso-layout-grid-align:none;
-  text-autospace:none'><span style='font-family:Helvetica;mso-bidi-font-style:
-  italic'>Ruby: Reading &amp; Writing Files<o:p></o:p></span></p>
-  </td>
-  <td width=169 valign=top style='width:169.35pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt'>
-  <p class=MsoNormal style='mso-pagination:none;mso-layout-grid-align:none;
-  text-autospace:none'><span style='font-family:Helvetica;mso-bidi-font-style:
-  italic'>HTML, Chapters 11, 12 &amp;16<o:p></o:p></span></p>
-  <p class=MsoNormal style='mso-pagination:none;mso-layout-grid-align:none;
-  text-autospace:none'><span style='font-family:Helvetica;mso-bidi-font-style:
-  italic'><o:p>&nbsp;</o:p></span></p>
-  <p class=MsoNormal style='mso-pagination:none;mso-layout-grid-align:none;
-  text-autospace:none'><span style='font-family:Helvetica;mso-bidi-font-style:
-  italic'>Skim HTML, Chapter 9<o:p></o:p></span></p>
-  <p class=MsoNormal style='mso-pagination:none;mso-layout-grid-align:none;
-  text-autospace:none'><span style='font-family:Helvetica;mso-bidi-font-style:
-  italic'>Pine, Chapter 11<o:p></o:p></span></p>
-  <p class=MsoNormal style='mso-pagination:none;mso-layout-grid-align:none;
-  text-autospace:none'><span style='font-family:Helvetica;mso-bidi-font-style:
-  italic'><o:p>&nbsp;</o:p></span></p>
-  </td>
-  <td width=266 valign=top style='width:3.7in;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt'>
-  <p class=MsoNormal style='mso-pagination:none;mso-layout-grid-align:none;
-  text-autospace:none'><span style='font-family:Helvetica;mso-bidi-font-style:
-  italic'><o:p>&nbsp;</o:p></span></p>
-  </td>
- </tr>
- <tr style='mso-yfti-irow:10'>
-  <td width=41 valign=top style='width:40.85pt;border:solid windowtext 1.0pt;
-  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
-  padding:0in 5.4pt 0in 5.4pt'>
-  <p class=MsoNormal style='mso-pagination:none;mso-layout-grid-align:none;
-  text-autospace:none'><span style='font-family:Helvetica;mso-bidi-font-style:
-  italic'>9/18<o:p></o:p></span></p>
-  </td>
-  <td width=24 valign=top style='width:24.15pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt'>
-  <p class=MsoNormal style='mso-pagination:none;mso-layout-grid-align:none;
-  text-autospace:none'><span style='font-family:Helvetica;mso-bidi-font-style:
-  italic'>10<o:p></o:p></span></p>
-  </td>
-  <td width=148 valign=top style='width:148.15pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt'>
-  <p class=MsoNormal style='mso-pagination:none;mso-layout-grid-align:none;
-  text-autospace:none'><span style='font-family:Helvetica;mso-bidi-font-style:
-  italic'>HTML Tables<o:p></o:p></span></p>
-  <p class=MsoNormal style='mso-pagination:none;mso-layout-grid-align:none;
-  text-autospace:none'><span style='font-family:Helvetica;mso-bidi-font-style:
-  italic'>CSS Boxes, Tables<o:p></o:p></span></p>
-  <p class=MsoNormal style='mso-pagination:none;mso-layout-grid-align:none;
-  text-autospace:none'><span style='font-family:Helvetica;mso-bidi-font-style:
-  italic'>CSS Layout<o:p></o:p></span></p>
-  </td>
-  <td width=169 valign=top style='width:169.35pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt'>
-  <p class=MsoNormal style='mso-pagination:none;mso-layout-grid-align:none;
-  text-autospace:none'><span style='font-family:Helvetica;mso-bidi-font-style:
-  italic'>HTML, Chapter 6<o:p></o:p></span></p>
-  <p class=MsoNormal style='mso-pagination:none;mso-layout-grid-align:none;
-  text-autospace:none'><span style='font-family:Helvetica;mso-bidi-font-style:
-  italic'>HTML, Chapters 13 &amp; 14<o:p></o:p></span></p>
-  <p class=MsoNormal style='mso-pagination:none;mso-layout-grid-align:none;
-  text-autospace:none'><span style='font-family:Helvetica;mso-bidi-font-style:
-  italic'>HTML, Chapter 16<o:p></o:p></span></p>
-  </td>
-  <td width=266 valign=top style='width:3.7in;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt'>
-  <p class=MsoNormal style='mso-pagination:none;mso-layout-grid-align:none;
-  text-autospace:none'><span style='font-family:Helvetica;mso-bidi-font-style:
-  italic'><o:p>&nbsp;</o:p></span></p>
-  </td>
- </tr>
- <tr style='mso-yfti-irow:11'>
-  <td width=41 valign=top style='width:40.85pt;border:solid windowtext 1.0pt;
-  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
-  padding:0in 5.4pt 0in 5.4pt'>
-  <p class=MsoNormal style='mso-pagination:none;mso-layout-grid-align:none;
-  text-autospace:none'><span style='font-family:Helvetica;mso-bidi-font-style:
-  italic'>9/23<o:p></o:p></span></p>
-  </td>
-  <td width=24 valign=top style='width:24.15pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt'>
-  <p class=MsoNormal style='mso-pagination:none;mso-layout-grid-align:none;
-  text-autospace:none'><span style='font-family:Helvetica;mso-bidi-font-style:
-  italic'>11<o:p></o:p></span></p>
-  </td>
-  <td width=148 valign=top style='width:148.15pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt'>
-  <p class=MsoNormal style='mso-pagination:none;mso-layout-grid-align:none;
-  text-autospace:none'><span style='font-family:Helvetica;mso-bidi-font-style:
-  italic'>HTML Forms<o:p></o:p></span></p>
-  <p class=MsoNormal style='mso-pagination:none;mso-layout-grid-align:none;
-  text-autospace:none'><span style='font-family:Helvetica;mso-bidi-font-style:
-  italic'>Ruby CGI<o:p></o:p></span></p>
-  </td>
-  <td width=169 valign=top style='width:169.35pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt'>
-  <p class=MsoNormal style='mso-pagination:none;mso-layout-grid-align:none;
-  text-autospace:none'><span style='font-family:Helvetica;mso-bidi-font-style:
-  italic'>[Class only]<o:p></o:p></span></p>
-  <p class=MsoNormal style='mso-pagination:none;mso-layout-grid-align:none;
-  text-autospace:none'><span style='font-family:Helvetica;mso-bidi-font-style:
-  italic'>HTML, Chapter 7<o:p></o:p></span></p>
-  </td>
-  <td width=266 valign=top style='width:3.7in;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt'>
-  <p class=MsoNormal style='mso-pagination:none;mso-layout-grid-align:none;
-  text-autospace:none'><span style='font-family:Helvetica;mso-bidi-font-style:
-  italic'><o:p>&nbsp;</o:p></span></p>
-  </td>
- </tr>
- <tr style='mso-yfti-irow:12'>
-  <td width=41 valign=top style='width:40.85pt;border:solid windowtext 1.0pt;
-  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
-  padding:0in 5.4pt 0in 5.4pt'>
-  <p class=MsoNormal style='mso-pagination:none;mso-layout-grid-align:none;
-  text-autospace:none'><span style='font-family:Helvetica;mso-bidi-font-style:
-  italic'><o:p>&nbsp;</o:p></span></p>
-  </td>
-  <td width=24 valign=top style='width:24.15pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt'>
-  <p class=MsoNormal style='mso-pagination:none;mso-layout-grid-align:none;
-  text-autospace:none'><span style='font-family:Helvetica;mso-bidi-font-style:
-  italic'><o:p>&nbsp;</o:p></span></p>
-  </td>
-  <td width=148 valign=top style='width:148.15pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt'>
-  <p class=MsoNormal style='mso-pagination:none;mso-layout-grid-align:none;
-  text-autospace:none'><span style='font-family:Helvetica;mso-bidi-font-style:
-  italic'>JavaScript Basics<o:p></o:p></span></p>
-  <p class=MsoNormal style='mso-pagination:none;mso-layout-grid-align:none;
-  text-autospace:none'><span style='font-family:Helvetica;mso-bidi-font-style:
-  italic'>Events &amp; <span class=SpellE>jQuery</span><o:p></o:p></span></p>
-  <p class=MsoNormal style='mso-pagination:none;mso-layout-grid-align:none;
-  text-autospace:none'><span style='font-family:Helvetica;mso-bidi-font-style:
-  italic'>Ruby Objects I<o:p></o:p></span></p>
-  </td>
-  <td width=169 valign=top style='width:169.35pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt'>
-  <p class=MsoNormal style='mso-pagination:none;mso-layout-grid-align:none;
-  text-autospace:none'><span style='font-family:Helvetica;mso-bidi-font-style:
-  italic'>JavaScript, Chapters 2-5<o:p></o:p></span></p>
-  <p class=MsoNormal style='mso-pagination:none;mso-layout-grid-align:none;
-  text-autospace:none'><span style='font-family:Helvetica;mso-bidi-font-style:
-  italic'>JavaScript, Chapters 2-7<o:p></o:p></span></p>
-  <p class=MsoNormal style='mso-pagination:none;mso-layout-grid-align:none;
-  text-autospace:none'><span style='font-family:Helvetica;mso-bidi-font-style:
-  italic'>Pine, Chapter 12<o:p></o:p></span></p>
-  </td>
-  <td width=266 valign=top style='width:3.7in;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt'>
-  <p class=MsoNormal style='mso-pagination:none;mso-layout-grid-align:none;
-  text-autospace:none'><span style='font-family:Helvetica;mso-bidi-font-style:
-  italic'><o:p>&nbsp;</o:p></span></p>
-  </td>
- </tr>
- <tr style='mso-yfti-irow:13'>
-  <td width=41 valign=top style='width:40.85pt;border:solid windowtext 1.0pt;
-  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
-  padding:0in 5.4pt 0in 5.4pt'>
-  <p class=MsoNormal style='mso-pagination:none;mso-layout-grid-align:none;
-  text-autospace:none'><span style='font-family:Helvetica;mso-bidi-font-style:
-  italic'>9/25<o:p></o:p></span></p>
-  </td>
-  <td width=24 valign=top style='width:24.15pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt'>
-  <p class=MsoNormal style='mso-pagination:none;mso-layout-grid-align:none;
-  text-autospace:none'><span style='font-family:Helvetica;mso-bidi-font-style:
-  italic'>12<o:p></o:p></span></p>
-  </td>
-  <td width=148 valign=top style='width:148.15pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt'>
-  <p class=MsoNormal style='mso-pagination:none;mso-layout-grid-align:none;
-  text-autospace:none'><span style='font-family:Helvetica;mso-bidi-font-style:
-  italic'>FLEX (ONA)<o:p></o:p></span></p>
-  </td>
-  <td width=169 valign=top style='width:169.35pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt'>
-  <p class=MsoNormal style='mso-pagination:none;mso-layout-grid-align:none;
-  text-autospace:none'><span style='font-family:Helvetica;mso-bidi-font-style:
-  italic'><o:p>&nbsp;</o:p></span></p>
-  </td>
-  <td width=266 valign=top style='width:3.7in;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt'>
-  <p class=MsoNormal style='mso-pagination:none;mso-layout-grid-align:none;
-  text-autospace:none'><span style='font-family:Helvetica;mso-bidi-font-style:
-  italic'><o:p>&nbsp;</o:p></span></p>
-  </td>
- </tr>
- <tr style='mso-yfti-irow:14'>
-  <td width=41 valign=top style='width:40.85pt;border:solid windowtext 1.0pt;
-  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
-  padding:0in 5.4pt 0in 5.4pt'>
-  <p class=MsoNormal style='mso-pagination:none;mso-layout-grid-align:none;
-  text-autospace:none'><span style='font-family:Helvetica;mso-bidi-font-style:
-  italic'>9/30<o:p></o:p></span></p>
-  </td>
-  <td width=24 valign=top style='width:24.15pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt'>
-  <p class=MsoNormal style='mso-pagination:none;mso-layout-grid-align:none;
-  text-autospace:none'><span style='font-family:Helvetica;mso-bidi-font-style:
-  italic'>13<o:p></o:p></span></p>
-  </td>
-  <td width=148 valign=top style='width:148.15pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt'>
-  <p class=MsoNormal style='mso-pagination:none;mso-layout-grid-align:none;
-  text-autospace:none'><span style='font-family:Helvetica;mso-bidi-font-style:
-  italic'>Midterm Exam<o:p></o:p></span></p>
-  </td>
-  <td width=169 valign=top style='width:169.35pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt'>
-  <p class=MsoNormal style='mso-pagination:none;mso-layout-grid-align:none;
-  text-autospace:none'><span style='font-family:Helvetica;mso-bidi-font-style:
-  italic'>--<o:p></o:p></span></p>
-  </td>
-  <td width=266 valign=top style='width:3.7in;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt'>
-  <p class=MsoNormal style='mso-pagination:none;mso-layout-grid-align:none;
-  text-autospace:none'><span style='font-family:Helvetica;mso-bidi-font-style:
-  italic'><o:p>&nbsp;</o:p></span></p>
-  </td>
- </tr>
- <tr style='mso-yfti-irow:15'>
-  <td width=41 valign=top style='width:40.85pt;border:solid windowtext 1.0pt;
-  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
-  padding:0in 5.4pt 0in 5.4pt'>
-  <p class=MsoNormal style='mso-pagination:none;mso-layout-grid-align:none;
-  text-autospace:none'><span style='font-family:Helvetica;mso-bidi-font-style:
-  italic'>10/2<o:p></o:p></span></p>
-  </td>
-  <td width=24 valign=top style='width:24.15pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt'>
-  <p class=MsoNormal style='mso-pagination:none;mso-layout-grid-align:none;
-  text-autospace:none'><span style='font-family:Helvetica;mso-bidi-font-style:
-  italic'><o:p>&nbsp;</o:p></span></p>
-  </td>
-  <td width=148 valign=top style='width:148.15pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt'>
-  <p class=MsoNormal style='mso-pagination:none;mso-layout-grid-align:none;
-  text-autospace:none'><span style='font-family:Helvetica;mso-bidi-font-style:
-  italic'>FALL BREAK<o:p></o:p></span></p>
-  </td>
-  <td width=169 valign=top style='width:169.35pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt'>
-  <p class=MsoNormal style='mso-pagination:none;mso-layout-grid-align:none;
-  text-autospace:none'><span style='font-family:Helvetica;mso-bidi-font-style:
-  italic'>--<o:p></o:p></span></p>
-  </td>
-  <td width=266 valign=top style='width:3.7in;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt'>
-  <p class=MsoNormal style='mso-pagination:none;mso-layout-grid-align:none;
-  text-autospace:none'><span style='font-family:Helvetica;mso-bidi-font-style:
-  italic'><o:p>&nbsp;</o:p></span></p>
-  </td>
- </tr>
- <tr style='mso-yfti-irow:16'>
-  <td width=41 valign=top style='width:40.85pt;border:solid windowtext 1.0pt;
-  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
-  padding:0in 5.4pt 0in 5.4pt'>
-  <p class=MsoNormal style='mso-pagination:none;mso-layout-grid-align:none;
-  text-autospace:none'><span style='font-family:Helvetica;mso-bidi-font-style:
-  italic'>10/7<o:p></o:p></span></p>
-  </td>
-  <td width=24 valign=top style='width:24.15pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt'>
-  <p class=MsoNormal style='mso-pagination:none;mso-layout-grid-align:none;
-  text-autospace:none'><span style='font-family:Helvetica;mso-bidi-font-style:
-  italic'>14<o:p></o:p></span></p>
-  </td>
-  <td width=148 valign=top style='width:148.15pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt'>
-  <p class=MsoNormal style='mso-pagination:none;mso-layout-grid-align:none;
-  text-autospace:none'><span style='font-family:Helvetica;mso-bidi-font-style:
-  italic'>JavaScript Ajax &amp; JSON, Forms<o:p></o:p></span></p>
-  <p class=MsoNormal style='mso-pagination:none;mso-layout-grid-align:none;
-  text-autospace:none'><span style='font-family:Helvetica;mso-bidi-font-style:
-  italic'>Ruby Objects II<o:p></o:p></span></p>
-  </td>
-  <td width=169 valign=top style='width:169.35pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt'>
-  <p class=MsoNormal style='mso-pagination:none;mso-layout-grid-align:none;
-  text-autospace:none'><span style='font-family:Helvetica;mso-bidi-font-style:
-  italic'>JavaScript, Chapters 8, 13<o:p></o:p></span></p>
-  <p class=MsoNormal style='mso-pagination:none;mso-layout-grid-align:none;
-  text-autospace:none'><span style='font-family:Helvetica;mso-bidi-font-style:
-  italic'>Pine, Chapter 13<o:p></o:p></span></p>
-  </td>
-  <td width=266 valign=top style='width:3.7in;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt'>
-  <p class=MsoNormal style='mso-pagination:none;mso-layout-grid-align:none;
-  text-autospace:none'><span style='font-family:Helvetica;mso-bidi-font-style:
-  italic'><o:p>&nbsp;</o:p></span></p>
-  </td>
- </tr>
- <tr style='mso-yfti-irow:17'>
-  <td width=41 valign=top style='width:40.85pt;border:solid windowtext 1.0pt;
-  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
-  padding:0in 5.4pt 0in 5.4pt'>
-  <p class=MsoNormal style='mso-pagination:none;mso-layout-grid-align:none;
-  text-autospace:none'><span style='font-family:Helvetica;mso-bidi-font-style:
-  italic'>10/9<o:p></o:p></span></p>
-  </td>
-  <td width=24 valign=top style='width:24.15pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt'>
-  <p class=MsoNormal style='mso-pagination:none;mso-layout-grid-align:none;
-  text-autospace:none'><span style='font-family:Arial'>15</span><span
-  style='font-family:Helvetica;mso-bidi-font-style:italic'><o:p></o:p></span></p>
-  </td>
-  <td width=148 valign=top style='width:148.15pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt'>
-  <p class=MsoNormal style='mso-pagination:none;mso-layout-grid-align:none;
-  text-autospace:none'><span style='font-family:Helvetica;mso-bidi-font-style:
-  italic'>Content Panels<o:p></o:p></span></p>
-  <p class=MsoNormal style='mso-pagination:none;mso-layout-grid-align:none;
-  text-autospace:none'><span style='font-family:Helvetica;mso-bidi-font-style:
-  italic'>Ruby Blocks &amp; <span class=SpellE>Procs</span><o:p></o:p></span></p>
-  </td>
-  <td width=169 valign=top style='width:169.35pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt'>
-  <p class=MsoNormal style='mso-pagination:none;mso-layout-grid-align:none;
-  text-autospace:none'><span style='font-family:Helvetica;mso-bidi-font-style:
-  italic'>JavaScript, Chapter 11<o:p></o:p></span></p>
-  <p class=MsoNormal style='mso-pagination:none;mso-layout-grid-align:none;
-  text-autospace:none'><span style='font-family:Helvetica;mso-bidi-font-style:
-  italic'>Pine, Chapter 14<o:p></o:p></span></p>
-  </td>
-  <td width=266 valign=top style='width:3.7in;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt'>
-  <p class=MsoNormal style='mso-pagination:none;mso-layout-grid-align:none;
-  text-autospace:none'><span style='font-family:Helvetica;mso-bidi-font-style:
-  italic'><o:p>&nbsp;</o:p></span></p>
-  </td>
- </tr>
- <tr style='mso-yfti-irow:18'>
-  <td width=41 valign=top style='width:40.85pt;border:solid windowtext 1.0pt;
-  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
-  padding:0in 5.4pt 0in 5.4pt'>
-  <p class=MsoNormal style='mso-pagination:none;mso-layout-grid-align:none;
-  text-autospace:none'><span style='font-family:Helvetica;mso-bidi-font-style:
-  italic'>10/14<o:p></o:p></span></p>
-  </td>
-  <td width=24 valign=top style='width:24.15pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt'>
-  <p class=MsoNormal style='mso-pagination:none;tab-stops:11.0pt .5in;
-  mso-layout-grid-align:none;text-autospace:none'><span style='font-family:
-  Helvetica;mso-bidi-font-style:italic'>16</span><span style='font-family:Arial'><o:p></o:p></span></p>
-  </td>
-  <td width=148 valign=top style='width:148.15pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt'>
-  <p class=MsoNormal style='mso-pagination:none;tab-stops:11.0pt .5in;
-  mso-layout-grid-align:none;text-autospace:none'><span style='font-family:
-  Arial'>APIs</span><span style='font-family:Helvetica;mso-bidi-font-style:
-  italic'><o:p></o:p></span></p>
-  </td>
-  <td width=169 valign=top style='width:169.35pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt'>
-  <p class=MsoNormal style='mso-pagination:none;tab-stops:11.0pt .5in;
-  mso-layout-grid-align:none;text-autospace:none'><span style='font-family:
-  Arial'>JavaScript, Chapter 9<o:p></o:p></span></p>
-  </td>
-  <td width=266 valign=top style='width:3.7in;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt'>
-  <p class=MsoNormal style='mso-pagination:none;tab-stops:11.0pt .5in;
-  mso-layout-grid-align:none;text-autospace:none'><span style='font-family:
-  Arial'><o:p>&nbsp;</o:p></span></p>
-  </td>
- </tr>
- <tr style='mso-yfti-irow:19'>
-  <td width=41 valign=top style='width:40.85pt;border:solid windowtext 1.0pt;
-  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
-  padding:0in 5.4pt 0in 5.4pt'>
-  <p class=MsoNormal style='mso-pagination:none;mso-layout-grid-align:none;
-  text-autospace:none'><span style='font-family:Helvetica;mso-bidi-font-style:
-  italic'>10/16<o:p></o:p></span></p>
-  </td>
-  <td width=24 valign=top style='width:24.15pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt'>
-  <p class=MsoNormal style='mso-pagination:none;mso-layout-grid-align:none;
-  text-autospace:none'><span style='font-family:Arial'>17</span><span
-  style='font-family:Helvetica;mso-bidi-font-style:italic'><o:p></o:p></span></p>
-  </td>
-  <td width=148 valign=top style='width:148.15pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt'>
-  <p class=MsoNormal style='mso-pagination:none;mso-layout-grid-align:none;
-  text-autospace:none'><span style='font-family:Helvetica;mso-bidi-font-style:
-  italic'>APIs<o:p></o:p></span></p>
-  </td>
-  <td width=169 valign=top style='width:169.35pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt'>
-  <p class=MsoNormal style='mso-pagination:none;mso-layout-grid-align:none;
-  text-autospace:none'><span style='font-family:Helvetica;mso-bidi-font-style:
-  italic'>[Online TBA]<o:p></o:p></span></p>
-  </td>
-  <td width=266 valign=top style='width:3.7in;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt'>
-  <p class=MsoNormal style='mso-pagination:none;mso-layout-grid-align:none;
-  text-autospace:none'><span style='font-family:Helvetica;mso-bidi-font-style:
-  italic'><o:p>&nbsp;</o:p></span></p>
-  </td>
- </tr>
- <tr style='mso-yfti-irow:20'>
-  <td width=41 valign=top style='width:40.85pt;border:solid windowtext 1.0pt;
-  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
-  padding:0in 5.4pt 0in 5.4pt'>
-  <p class=MsoNormal style='mso-pagination:none;mso-layout-grid-align:none;
-  text-autospace:none'><span style='font-family:Helvetica;mso-bidi-font-style:
-  italic'>10/21<o:p></o:p></span></p>
-  </td>
-  <td width=24 valign=top style='width:24.15pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt'>
-  <p class=MsoNormal style='mso-pagination:none;tab-stops:11.0pt .5in;
-  mso-layout-grid-align:none;text-autospace:none'><span style='font-family:
-  Arial'>18<o:p></o:p></span></p>
-  </td>
-  <td width=148 valign=top style='width:148.15pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt'>
-  <p class=MsoNormal style='mso-pagination:none;tab-stops:11.0pt .5in;
-  mso-layout-grid-align:none;text-autospace:none'><span style='font-family:
-  Arial'>Error Handling &amp; Debugging</span><span style='font-family:Helvetica;
-  mso-bidi-font-style:italic'><o:p></o:p></span></p>
-  </td>
-  <td width=169 valign=top style='width:169.35pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt'>
-  <p class=MsoNormal style='mso-pagination:none;mso-layout-grid-align:none;
-  text-autospace:none'><span style='font-family:Arial'>JavaScript, Chapter 9</span><span
-  style='font-family:Helvetica;mso-bidi-font-style:italic'><o:p></o:p></span></p>
-  </td>
-  <td width=266 valign=top style='width:3.7in;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt'>
-  <p class=MsoNormal style='mso-pagination:none;mso-layout-grid-align:none;
-  text-autospace:none'><span style='font-family:Arial'><o:p>&nbsp;</o:p></span></p>
-  </td>
- </tr>
- <tr style='mso-yfti-irow:21'>
-  <td width=41 valign=top style='width:40.85pt;border:solid windowtext 1.0pt;
-  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
-  padding:0in 5.4pt 0in 5.4pt'>
-  <p class=MsoNormal style='mso-pagination:none;mso-layout-grid-align:none;
-  text-autospace:none'><span style='font-family:Helvetica;mso-bidi-font-style:
-  italic'>10/23<o:p></o:p></span></p>
-  </td>
-  <td width=24 valign=top style='width:24.15pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt'>
-  <p class=MsoNormal style='mso-pagination:none;tab-stops:11.0pt .5in;
-  mso-layout-grid-align:none;text-autospace:none'><span style='font-family:
-  Helvetica;mso-bidi-font-style:italic'>19</span><span style='font-family:Arial'><o:p></o:p></span></p>
-  </td>
-  <td width=148 valign=top style='width:148.15pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt'>
-  <p class=MsoNormal style='mso-pagination:none;tab-stops:11.0pt .5in;
-  mso-layout-grid-align:none;text-autospace:none'><span style='font-family:
-  Arial'>Filtering, Searching &amp; Sorting </span><span style='font-family:
-  Helvetica;mso-bidi-font-style:italic'><o:p></o:p></span></p>
-  </td>
-  <td width=169 valign=top style='width:169.35pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt'>
-  <p class=MsoNormal style='mso-pagination:none;mso-layout-grid-align:none;
-  text-autospace:none'><span style='font-family:Arial'>JavaScript, Chapter 12</span><span
-  style='font-family:Helvetica;mso-bidi-font-style:italic'><o:p></o:p></span></p>
-  </td>
-  <td width=266 valign=top style='width:3.7in;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt'>
-  <p class=MsoNormal style='mso-pagination:none;mso-layout-grid-align:none;
-  text-autospace:none'><span style='font-family:Arial'><o:p>&nbsp;</o:p></span></p>
-  </td>
- </tr>
- <tr style='mso-yfti-irow:22'>
-  <td width=41 valign=top style='width:40.85pt;border:solid windowtext 1.0pt;
-  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
-  padding:0in 5.4pt 0in 5.4pt'>
-  <p class=MsoNormal style='mso-pagination:none;mso-layout-grid-align:none;
-  text-autospace:none'><span style='font-family:Helvetica;mso-bidi-font-style:
-  italic'>10/28<o:p></o:p></span></p>
-  </td>
-  <td width=24 valign=top style='width:24.15pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt'>
-  <p class=MsoNormal style='mso-pagination:none;mso-layout-grid-align:none;
-  text-autospace:none'><span style='font-family:Helvetica;mso-bidi-font-style:
-  italic'>20<o:p></o:p></span></p>
-  </td>
-  <td width=148 valign=top style='width:148.15pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt'>
-  <p class=MsoNormal style='mso-pagination:none;mso-layout-grid-align:none;
-  text-autospace:none'><span style='font-family:Helvetica;mso-bidi-font-style:
-  italic'>Misc. JavaScript Tools<o:p></o:p></span></p>
-  </td>
-  <td width=169 valign=top style='width:169.35pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt'>
-  <p class=MsoNormal style='mso-pagination:none;tab-stops:52.0pt;mso-layout-grid-align:
-  none;text-autospace:none'><span style='font-family:Helvetica;mso-bidi-font-style:
-  italic'>[Online TBA]<o:p></o:p></span></p>
-  </td>
-  <td width=266 valign=top style='width:3.7in;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt'>
-  <p class=MsoNormal style='mso-pagination:none;tab-stops:52.0pt;mso-layout-grid-align:
-  none;text-autospace:none'><span style='font-family:Helvetica;mso-bidi-font-style:
-  italic'><o:p>&nbsp;</o:p></span></p>
-  </td>
- </tr>
- <tr style='mso-yfti-irow:23'>
-  <td width=41 valign=top style='width:40.85pt;border:solid windowtext 1.0pt;
-  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
-  padding:0in 5.4pt 0in 5.4pt'>
-  <p class=MsoNormal style='mso-pagination:none;mso-layout-grid-align:none;
-  text-autospace:none'><span style='font-family:Helvetica;mso-bidi-font-style:
-  italic'>10/30<o:p></o:p></span></p>
-  </td>
-  <td width=24 valign=top style='width:24.15pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt'>
-  <p class=MsoNormal style='mso-pagination:none;mso-layout-grid-align:none;
-  text-autospace:none'><span style='font-family:Helvetica;mso-bidi-font-style:
-  italic'>21<o:p></o:p></span></p>
-  </td>
-  <td width=148 valign=top style='width:148.15pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt'>
-  <p class=MsoNormal style='mso-pagination:none;mso-layout-grid-align:none;
-  text-autospace:none'><span style='font-family:Helvetica;mso-bidi-font-style:
-  italic'>Web Frameworks<o:p></o:p></span></p>
-  </td>
-  <td width=169 valign=top style='width:169.35pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt'>
-  <p class=MsoNormal style='mso-pagination:none;mso-layout-grid-align:none;
-  text-autospace:none'><span style='font-family:Helvetica;mso-bidi-font-style:
-  italic'>[Online TBA]<o:p></o:p></span></p>
-  </td>
-  <td width=266 valign=top style='width:3.7in;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt'>
-  <p class=MsoNormal style='mso-pagination:none;mso-layout-grid-align:none;
-  text-autospace:none'><span style='font-family:Helvetica;mso-bidi-font-style:
-  italic'><o:p>&nbsp;</o:p></span></p>
-  </td>
- </tr>
- <tr style='mso-yfti-irow:24'>
-  <td width=41 valign=top style='width:40.85pt;border:solid windowtext 1.0pt;
-  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
-  padding:0in 5.4pt 0in 5.4pt'>
-  <p class=MsoNormal style='mso-pagination:none;mso-layout-grid-align:none;
-  text-autospace:none'><span style='font-family:Helvetica;mso-bidi-font-style:
-  italic'>11/4<o:p></o:p></span></p>
-  </td>
-  <td width=24 valign=top style='width:24.15pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt'>
-  <p class=MsoNormal style='mso-pagination:none;mso-layout-grid-align:none;
-  text-autospace:none'><span style='font-family:Helvetica;mso-bidi-font-style:
-  italic'>22<o:p></o:p></span></p>
-  </td>
-  <td width=148 valign=top style='width:148.15pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt'>
-  <p class=MsoNormal style='mso-pagination:none;mso-layout-grid-align:none;
-  text-autospace:none'><span style='font-family:Helvetica;mso-bidi-font-style:
-  italic'>Web Frameworks<o:p></o:p></span></p>
-  </td>
-  <td width=169 valign=top style='width:169.35pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt'>
-  <p class=MsoNormal style='mso-pagination:none;mso-layout-grid-align:none;
-  text-autospace:none'><span style='font-family:Helvetica;mso-bidi-font-style:
-  italic'>[Online TBA]<o:p></o:p></span></p>
-  </td>
-  <td width=266 valign=top style='width:3.7in;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt'>
-  <p class=MsoNormal style='mso-pagination:none;mso-layout-grid-align:none;
-  text-autospace:none'><span style='font-family:Helvetica;mso-bidi-font-style:
-  italic'><o:p>&nbsp;</o:p></span></p>
-  </td>
- </tr>
- <tr style='mso-yfti-irow:25'>
-  <td width=41 valign=top style='width:40.85pt;border:solid windowtext 1.0pt;
-  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
-  padding:0in 5.4pt 0in 5.4pt'>
-  <p class=MsoNormal style='mso-pagination:none;mso-layout-grid-align:none;
-  text-autospace:none'><span style='font-family:Helvetica;mso-bidi-font-style:
-  italic'>11/6<o:p></o:p></span></p>
-  </td>
-  <td width=24 valign=top style='width:24.15pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt'>
-  <p class=MsoNormal style='mso-pagination:none;mso-layout-grid-align:none;
-  text-autospace:none'><span style='font-family:Helvetica;mso-bidi-font-style:
-  italic'>23<o:p></o:p></span></p>
-  </td>
-  <td width=148 valign=top style='width:148.15pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt'>
-  <p class=MsoNormal style='mso-pagination:none;mso-layout-grid-align:none;
-  text-autospace:none'><span style='font-family:Helvetica;mso-bidi-font-style:
-  italic'>Web Frameworks<o:p></o:p></span></p>
-  </td>
-  <td width=169 valign=top style='width:169.35pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt'>
-  <p class=MsoNormal style='mso-pagination:none;mso-layout-grid-align:none;
-  text-autospace:none'><span style='font-family:Helvetica;mso-bidi-font-style:
-  italic'>[Online TBA]<o:p></o:p></span></p>
-  </td>
-  <td width=266 valign=top style='width:3.7in;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt'>
-  <p class=MsoNormal style='mso-pagination:none;mso-layout-grid-align:none;
-  text-autospace:none'><span style='font-family:Helvetica;mso-bidi-font-style:
-  italic'><o:p>&nbsp;</o:p></span></p>
-  </td>
- </tr>
- <tr style='mso-yfti-irow:26'>
-  <td width=41 valign=top style='width:40.85pt;border:solid windowtext 1.0pt;
-  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
-  padding:0in 5.4pt 0in 5.4pt'>
-  <p class=MsoNormal style='mso-pagination:none;mso-layout-grid-align:none;
-  text-autospace:none'><span style='font-family:Helvetica;mso-bidi-font-style:
-  italic'>11/11<o:p></o:p></span></p>
-  </td>
-  <td width=24 valign=top style='width:24.15pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt'>
-  <p class=MsoNormal style='mso-pagination:none;mso-layout-grid-align:none;
-  text-autospace:none'><span style='font-family:Helvetica;mso-bidi-font-style:
-  italic'>24<o:p></o:p></span></p>
-  </td>
-  <td width=148 valign=top style='width:148.15pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt'>
-  <p class=MsoNormal style='mso-pagination:none;mso-layout-grid-align:none;
-  text-autospace:none'><span style='font-family:Helvetica;mso-bidi-font-style:
-  italic'>Project work [JEA]<o:p></o:p></span></p>
-  </td>
-  <td width=169 valign=top style='width:169.35pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt'>
-  <p class=MsoNormal style='mso-pagination:none;mso-layout-grid-align:none;
-  text-autospace:none'><span style='font-family:Helvetica;mso-bidi-font-style:
-  italic'>TBA<o:p></o:p></span></p>
-  </td>
-  <td width=266 valign=top style='width:3.7in;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt'>
-  <p class=MsoNormal style='mso-pagination:none;mso-layout-grid-align:none;
-  text-autospace:none'><span style='font-family:Helvetica;mso-bidi-font-style:
-  italic'><o:p>&nbsp;</o:p></span></p>
-  </td>
- </tr>
- <tr style='mso-yfti-irow:27'>
-  <td width=41 valign=top style='width:40.85pt;border:solid windowtext 1.0pt;
-  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
-  padding:0in 5.4pt 0in 5.4pt'>
-  <p class=MsoNormal style='mso-pagination:none;mso-layout-grid-align:none;
-  text-autospace:none'><span style='font-family:Helvetica;mso-bidi-font-style:
-  italic'>11/13<o:p></o:p></span></p>
-  </td>
-  <td width=24 valign=top style='width:24.15pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt'>
-  <p class=MsoNormal style='mso-pagination:none;mso-layout-grid-align:none;
-  text-autospace:none'><span style='font-family:Helvetica;mso-bidi-font-style:
-  italic'>25<o:p></o:p></span></p>
-  </td>
-  <td width=148 valign=top style='width:148.15pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt'>
-  <p class=MsoNormal style='mso-pagination:none;mso-layout-grid-align:none;
-  text-autospace:none'><span style='font-family:Helvetica;mso-bidi-font-style:
-  italic'>Databases &amp; Web Frameworks<o:p></o:p></span></p>
-  </td>
-  <td width=169 valign=top style='width:169.35pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt'>
-  <p class=MsoNormal style='mso-pagination:none;mso-layout-grid-align:none;
-  text-autospace:none'><span style='font-family:Helvetica;mso-bidi-font-style:
-  italic'>[Online TBA]<o:p></o:p></span></p>
-  </td>
-  <td width=266 valign=top style='width:3.7in;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt'>
-  <p class=MsoNormal style='mso-pagination:none;mso-layout-grid-align:none;
-  text-autospace:none'><span style='font-family:Helvetica;mso-bidi-font-style:
-  italic'><o:p>&nbsp;</o:p></span></p>
-  </td>
- </tr>
- <tr style='mso-yfti-irow:28'>
-  <td width=41 valign=top style='width:40.85pt;border:solid windowtext 1.0pt;
-  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
-  padding:0in 5.4pt 0in 5.4pt'>
-  <p class=MsoNormal style='mso-pagination:none;mso-layout-grid-align:none;
-  text-autospace:none'><span style='font-family:Helvetica;mso-bidi-font-style:
-  italic'>11/18<o:p></o:p></span></p>
-  </td>
-  <td width=24 valign=top style='width:24.15pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt'>
-  <p class=MsoNormal style='mso-pagination:none;mso-layout-grid-align:none;
-  text-autospace:none'><span style='font-family:Helvetica;mso-bidi-font-style:
-  italic'>26<o:p></o:p></span></p>
-  </td>
-  <td width=148 valign=top style='width:148.15pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt'>
-  <p class=MsoNormal style='mso-pagination:none;mso-layout-grid-align:none;
-  text-autospace:none'><span style='font-family:Helvetica;mso-bidi-font-style:
-  italic'>Databases &amp; Web Frameworks<o:p></o:p></span></p>
-  </td>
-  <td width=169 valign=top style='width:169.35pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt'>
-  <p class=MsoNormal style='mso-pagination:none;mso-layout-grid-align:none;
-  text-autospace:none'><span style='font-family:Helvetica;mso-bidi-font-style:
-  italic'>[Online TBA]<o:p></o:p></span></p>
-  </td>
-  <td width=266 valign=top style='width:3.7in;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt'>
-  <p class=MsoNormal style='mso-pagination:none;mso-layout-grid-align:none;
-  text-autospace:none'><span style='font-family:Helvetica;mso-bidi-font-style:
-  italic'><o:p>&nbsp;</o:p></span></p>
-  </td>
- </tr>
- <tr style='mso-yfti-irow:29'>
-  <td width=41 valign=top style='width:40.85pt;border:solid windowtext 1.0pt;
-  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
-  padding:0in 5.4pt 0in 5.4pt'>
-  <p class=MsoNormal style='mso-pagination:none;mso-layout-grid-align:none;
-  text-autospace:none'><span style='font-family:Helvetica;mso-bidi-font-style:
-  italic'>11/20<o:p></o:p></span></p>
-  </td>
-  <td width=24 valign=top style='width:24.15pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt'>
-  <p class=MsoNormal style='mso-pagination:none;tab-stops:11.0pt .5in;
-  mso-layout-grid-align:none;text-autospace:none'><span style='font-family:
-  Arial'>27<o:p></o:p></span></p>
-  </td>
-  <td width=148 valign=top style='width:148.15pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt'>
-  <p class=MsoNormal style='mso-pagination:none;tab-stops:11.0pt .5in;
-  mso-layout-grid-align:none;text-autospace:none'><span style='font-family:
-  Arial'>SEO, Analytics, Publishing </span><span style='font-family:Helvetica;
-  mso-bidi-font-style:italic'><o:p></o:p></span></p>
-  </td>
-  <td width=169 valign=top style='width:169.35pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt'>
-  <p class=MsoNormal style='mso-pagination:none;mso-layout-grid-align:none;
-  text-autospace:none'><span style='font-family:Helvetica;mso-bidi-font-style:
-  italic'>HTML, Chapter 19<o:p></o:p></span></p>
-  </td>
-  <td width=266 valign=top style='width:3.7in;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt'>
-  <p class=MsoNormal style='mso-pagination:none;mso-layout-grid-align:none;
-  text-autospace:none'><span style='font-family:Helvetica;mso-bidi-font-style:
-  italic'><o:p>&nbsp;</o:p></span></p>
-  </td>
- </tr>
- <tr style='mso-yfti-irow:30'>
-  <td width=41 valign=top style='width:40.85pt;border:solid windowtext 1.0pt;
-  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
-  padding:0in 5.4pt 0in 5.4pt'>
-  <p class=MsoNormal style='mso-pagination:none;mso-layout-grid-align:none;
-  text-autospace:none'><span style='font-family:Helvetica;mso-bidi-font-style:
-  italic'>11/25<o:p></o:p></span></p>
-  </td>
-  <td width=24 valign=top style='width:24.15pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt'>
-  <p class=MsoNormal style='mso-pagination:none;mso-layout-grid-align:none;
-  text-autospace:none'><span style='font-family:Helvetica;mso-bidi-font-style:
-  italic'>28<o:p></o:p></span></p>
-  </td>
-  <td width=148 valign=top style='width:148.15pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt'>
-  <p class=MsoNormal style='mso-pagination:none;mso-layout-grid-align:none;
-  text-autospace:none'><span style='font-family:Helvetica;mso-bidi-font-style:
-  italic'>[<span class=GramE>maybe</span>] Ruby Recursions &amp; Sorting<o:p></o:p></span></p>
-  </td>
-  <td width=169 valign=top style='width:169.35pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt'>
-  <p class=MsoNormal style='mso-pagination:none;mso-layout-grid-align:none;
-  text-autospace:none'><span style='font-family:Helvetica;mso-bidi-font-style:
-  italic'>Pine, Chapter 10<o:p></o:p></span></p>
-  </td>
-  <td width=266 valign=top style='width:3.7in;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt'>
-  <p class=MsoNormal style='mso-pagination:none;mso-layout-grid-align:none;
-  text-autospace:none'><span style='font-family:Helvetica;mso-bidi-font-style:
-  italic'><o:p>&nbsp;</o:p></span></p>
-  </td>
- </tr>
- <tr style='mso-yfti-irow:31'>
-  <td width=41 valign=top style='width:40.85pt;border:solid windowtext 1.0pt;
-  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
-  padding:0in 5.4pt 0in 5.4pt'>
-  <p class=MsoNormal style='mso-pagination:none;mso-layout-grid-align:none;
-  text-autospace:none'><span style='font-family:Helvetica;mso-bidi-font-style:
-  italic'>11/27<o:p></o:p></span></p>
-  </td>
-  <td width=24 valign=top style='width:24.15pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt'>
-  <p class=MsoNormal style='mso-pagination:none;mso-layout-grid-align:none;
-  text-autospace:none'><span style='font-family:Helvetica;mso-bidi-font-style:
-  italic'><o:p>&nbsp;</o:p></span></p>
-  </td>
-  <td width=148 valign=top style='width:148.15pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt'>
-  <p class=MsoNormal style='mso-pagination:none;mso-layout-grid-align:none;
-  text-autospace:none'><span style='font-family:Helvetica;mso-bidi-font-style:
-  italic'>THANKSGIVING<o:p></o:p></span></p>
-  </td>
-  <td width=169 valign=top style='width:169.35pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt'>
-  <p class=MsoNormal style='mso-pagination:none;mso-layout-grid-align:none;
-  text-autospace:none'><span style='font-family:Helvetica;mso-bidi-font-style:
-  italic'>--<o:p></o:p></span></p>
-  </td>
-  <td width=266 valign=top style='width:3.7in;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt'>
-  <p class=MsoNormal style='mso-pagination:none;mso-layout-grid-align:none;
-  text-autospace:none'><span style='font-family:Helvetica;mso-bidi-font-style:
-  italic'><o:p>&nbsp;</o:p></span></p>
-  </td>
- </tr>
- <tr style='mso-yfti-irow:32'>
-  <td width=41 valign=top style='width:40.85pt;border:solid windowtext 1.0pt;
-  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
-  padding:0in 5.4pt 0in 5.4pt'>
-  <p class=MsoNormal style='mso-pagination:none;mso-layout-grid-align:none;
-  text-autospace:none'><span style='font-family:Helvetica;mso-bidi-font-style:
-  italic'>12/2<o:p></o:p></span></p>
-  </td>
-  <td width=24 valign=top style='width:24.15pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt'>
-  <p class=MsoNormal style='mso-pagination:none;mso-layout-grid-align:none;
-  text-autospace:none'><span style='font-family:Helvetica;mso-bidi-font-style:
-  italic'>29<o:p></o:p></span></p>
-  </td>
-  <td width=148 valign=top style='width:148.15pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt'>
-  <p class=MsoNormal style='mso-pagination:none;mso-layout-grid-align:none;
-  text-autospace:none'><span style='font-family:Helvetica;mso-bidi-font-style:
-  italic'>Project work<o:p></o:p></span></p>
-  </td>
-  <td width=169 valign=top style='width:169.35pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt'>
-  <p class=MsoNormal style='mso-pagination:none;mso-layout-grid-align:none;
-  text-autospace:none'><span style='font-family:Helvetica;mso-bidi-font-style:
-  italic'>TBA<o:p></o:p></span></p>
-  </td>
-  <td width=266 valign=top style='width:3.7in;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt'>
-  <p class=MsoNormal style='mso-pagination:none;mso-layout-grid-align:none;
-  text-autospace:none'><span style='font-family:Helvetica;mso-bidi-font-style:
-  italic'><o:p>&nbsp;</o:p></span></p>
-  </td>
- </tr>
- <tr style='mso-yfti-irow:33'>
-  <td width=41 valign=top style='width:40.85pt;border:solid windowtext 1.0pt;
-  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
-  padding:0in 5.4pt 0in 5.4pt'>
-  <p class=MsoNormal style='mso-pagination:none;mso-layout-grid-align:none;
-  text-autospace:none'><span style='font-family:Helvetica;mso-bidi-font-style:
-  italic'>12/4<o:p></o:p></span></p>
-  </td>
-  <td width=24 valign=top style='width:24.15pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt'>
-  <p class=MsoNormal style='mso-pagination:none;mso-layout-grid-align:none;
-  text-autospace:none'><span style='font-family:Helvetica;mso-bidi-font-style:
-  italic'>30<o:p></o:p></span></p>
-  </td>
-  <td width=148 valign=top style='width:148.15pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt'>
-  <p class=MsoNormal style='mso-pagination:none;mso-layout-grid-align:none;
-  text-autospace:none'><span style='font-family:Helvetica;mso-bidi-font-style:
-  italic'>Project work<o:p></o:p></span></p>
-  </td>
-  <td width=169 valign=top style='width:169.35pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt'>
-  <p class=MsoNormal style='mso-pagination:none;mso-layout-grid-align:none;
-  text-autospace:none'><span style='font-family:Helvetica;mso-bidi-font-style:
-  italic'>TBA<o:p></o:p></span></p>
-  </td>
-  <td width=266 valign=top style='width:3.7in;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt'>
-  <p class=MsoNormal style='mso-pagination:none;mso-layout-grid-align:none;
-  text-autospace:none'><span style='font-family:Helvetica;mso-bidi-font-style:
-  italic'><o:p>&nbsp;</o:p></span></p>
-  </td>
- </tr>
- <tr style='mso-yfti-irow:34;mso-yfti-lastrow:yes'>
-  <td width=41 valign=top style='width:40.85pt;border:solid windowtext 1.0pt;
-  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
-  padding:0in 5.4pt 0in 5.4pt'>
-  <p class=MsoNormal style='mso-pagination:none;mso-layout-grid-align:none;
-  text-autospace:none'><span style='font-family:Helvetica;mso-bidi-font-style:
-  italic'>12/9<o:p></o:p></span></p>
-  </td>
-  <td width=24 valign=top style='width:24.15pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt'>
-  <p class=MsoNormal style='mso-pagination:none;mso-layout-grid-align:none;
-  text-autospace:none'><span style='font-family:Helvetica;mso-bidi-font-style:
-  italic'><o:p>&nbsp;</o:p></span></p>
-  </td>
-  <td width=148 valign=top style='width:148.15pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt'>
-  <p class=MsoNormal style='mso-pagination:none;mso-layout-grid-align:none;
-  text-autospace:none'><span style='font-family:Helvetica;mso-bidi-font-style:
-  italic'>2-5 p.m.: Final Exam<o:p></o:p></span></p>
-  </td>
-  <td width=169 valign=top style='width:169.35pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt'>
-  <p class=MsoNormal style='mso-pagination:none;mso-layout-grid-align:none;
-  text-autospace:none'><span style='font-family:Helvetica;mso-bidi-font-style:
-  italic'>--<o:p></o:p></span></p>
-  </td>
-  <td width=266 valign=top style='width:3.7in;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt'>
-  <p class=MsoNormal style='mso-pagination:none;mso-layout-grid-align:none;
-  text-autospace:none'><span style='font-family:Helvetica;mso-bidi-font-style:
-  italic'><o:p>&nbsp;</o:p></span></p>
-  </td>
- </tr>
-</table>
-
-<p class=MsoNormal><i style='mso-bidi-font-style:normal'><span
-style='font-family:Helvetica'><o:p>&nbsp;</o:p></span></i></p>
-
-<p class=MsoNormal><o:p>&nbsp;</o:p></p>
-
-</div>
-
-</body>
-
-</html>
+    <p align="center">
+      <strong>Course Calendar</strong></p>
+    <p>
+      JMS 302: Hacking the Media, Fall 2014</p>
+    <p>
+      &nbsp;</p>
+    <p>
+      The following lays out the basic structure of the class. The schedule is subject to change based on the needs and progress of the course.&nbsp;Changes to the schedule are announced in class; even if you are absent for the announcement, you are still responsible for the assignment and must get it from a classmate.</p>
+    <p>
+      &nbsp;</p>
+    <p>
+      &nbsp;</p>
+    <table border="1" cellpadding="0" cellspacing="0">
+      <tbody>
+        <tr>
+          <td style="width:54px;">
+            <p>
+              <strong>Date</strong></p>
+          </td>
+          <td style="width:32px;">
+            <p>
+              &nbsp;</p>
+          </td>
+          <td style="width:198px;">
+            <p>
+              <strong>Topics</strong></p>
+          </td>
+          <td style="width:226px;">
+            <p>
+              <strong>Reading</strong></p>
+          </td>
+          <td style="width:355px;">
+            <p>
+              <strong>Homework</strong></p>
+          </td>
+        </tr>
+        <tr>
+          <td style="width:54px;">
+            <p>
+              8/19</p>
+          </td>
+          <td style="width:32px;">
+            <p>
+              1</p>
+          </td>
+          <td style="width:198px;">
+            <p>
+              Introduction, setup, Intro to the command line</p>
+          </td>
+          <td style="width:226px;">
+            <p>
+              &nbsp;</p>
+          </td>
+          <td style="width:355px;">
+            <p>
+              Create GitHub.com account (free level).</p>
+          </td>
+        </tr>
+        <tr>
+          <td style="width:54px;">
+            <p>
+              8/21</p>
+          </td>
+          <td style="width:32px;">
+            <p>
+              2</p>
+          </td>
+          <td style="width:198px;">
+            <p>
+              Your first programs</p>
+            <p>
+              GitHub</p>
+          </td>
+          <td style="width:226px;">
+            <p>
+              <a href="http://bit.ly/hacking-1">http://bit.ly/hacking-1</a></p>
+          </td>
+          <td style="width:355px;">
+            <p>
+              Week 1:</p>
+            <p>
+              &middot;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Create a trial account on MyBalsamiq.com (you&rsquo;ll be invited to group projects later, which don&#39;t require paid accounts)</p>
+            <p>
+              &middot;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Make sure you finish the readings originally assigned for this week, including Pine (which is available in the bookstore)</p>
+          </td>
+        </tr>
+        <tr>
+          <td style="width:54px;">
+            <p>
+              8/26</p>
+          </td>
+          <td style="width:32px;">
+            <p>
+              3</p>
+          </td>
+          <td style="width:198px;">
+            <p>
+              Planning your program &amp; your layout</p>
+            <p>
+              &nbsp;</p>
+            <p>
+              HTML Structure &amp; Text</p>
+            <p>
+              &nbsp;</p>
+          </td>
+          <td style="width:226px;">
+            <p>
+              HTML, Intro &amp; Chapter 18</p>
+            <p>
+              JavaScript, Intro &amp; Chapter 1</p>
+            <p>
+              &nbsp;</p>
+            <p>
+              HTML, Chapters 1 &amp; 2</p>
+            <p>
+              &nbsp;</p>
+          </td>
+          <td style="width:355px;">
+            <p>
+              &nbsp;</p>
+            <p>
+              &nbsp;</p>
+          </td>
+        </tr>
+        <tr>
+          <td style="width:54px;">
+            <p>
+              8/28</p>
+          </td>
+          <td style="width:32px;">
+            <p>
+              4</p>
+          </td>
+          <td style="width:198px;">
+            <p>
+              HTML Formatting</p>
+            <p>
+              &nbsp;</p>
+            <p>
+              Getting Started in Ruby</p>
+          </td>
+          <td style="width:226px;">
+            <p>
+              HTML, Chapters 3-5</p>
+            <p>
+              &nbsp;</p>
+            <p>
+              Pine, Intro &amp; Chapters 2-4</p>
+          </td>
+          <td style="width:355px;">
+            <p>
+              Week 2, due Monday night (9/1, 11:59 p.m.)</p>
+            <p>
+              &middot;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Using MyBalsamiq.com, create a sitemap and mock-up of a homepage for Unblight. Download the image and BMML files. [3 pts]</p>
+            <p>
+              &middot;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Create an simple homepage for Unblight using relevant tags from Chapters 1 &amp; 2 [2 pts]</p>
+            <p>
+              &middot;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Submit your files (you should have 5 of them) via GitHub. Create a &ldquo;homework&rdquo; directory and then a &ldquo;week_2&rdquo; directory under that for your files.</p>
+            <p>
+              &middot;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Email the URL for your GitHub repository to <a href="mailto:porter_tm@mercer.edu">porter_tm@mercer.edu</a> .&nbsp;</p>
+          </td>
+        </tr>
+        <tr>
+          <td style="width:54px;">
+            <p>
+              9/2</p>
+          </td>
+          <td style="width:32px;">
+            <p>
+              5</p>
+          </td>
+          <td style="width:198px;">
+            <p>
+              Ruby Methods</p>
+            <p>
+              &nbsp;</p>
+          </td>
+          <td style="width:226px;">
+            <p>
+              Pine, Chapters 5-6</p>
+            <p>
+              &nbsp;</p>
+          </td>
+          <td style="width:355px;">
+            <p>
+              &nbsp;</p>
+          </td>
+        </tr>
+        <tr>
+          <td style="width:54px;">
+            <p>
+              9/4</p>
+          </td>
+          <td style="width:32px;">
+            <p>
+              6</p>
+          </td>
+          <td style="width:198px;">
+            <p>
+              Ruby Flow Control, Arrays &amp; Iterators</p>
+            <p>
+              &nbsp;</p>
+          </td>
+          <td style="width:226px;">
+            <p>
+              Pine, Chapters 7 &amp; 8</p>
+            <p>
+              &nbsp;</p>
+            <p>
+              &nbsp;</p>
+          </td>
+          <td style="width:355px;">
+            <p>
+              Week 3, due Sunday night (9/7, 11:59 p.m.)</p>
+            <p>
+              &middot;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Pine, 2.5 exercises [1 pts]</p>
+            <p>
+              &middot;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Pine, 5.6 exercises [2 pts]</p>
+            <p>
+              &middot;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Pine, 6.2: Angry Boss [2 pts]</p>
+            <p>
+              &middot;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Pine, 7.5: Deaf Grandma (all the exercises are recommended) [3 pts]</p>
+            <p>
+              &middot;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Pine, 8.3: Building and sorting an array [2 pts]</p>
+            <p>
+              &middot;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Submit via GitHub, &ldquo;week_3&rdquo; directory within your &ldquo;homework&rdquo;</p>
+          </td>
+        </tr>
+        <tr>
+          <td style="width:54px;">
+            <p>
+              9/9</p>
+          </td>
+          <td style="width:32px;">
+            <p>
+              7</p>
+          </td>
+          <td style="width:198px;">
+            <p>
+              (Class starts at 9:35) Ruby exercises</p>
+          </td>
+          <td style="width:226px;">
+            <p>
+              &nbsp;</p>
+          </td>
+          <td style="width:355px;">
+            <p>
+              &nbsp;</p>
+          </td>
+        </tr>
+        <tr>
+          <td style="width:54px;">
+            <p>
+              9/11</p>
+          </td>
+          <td style="width:32px;">
+            <p>
+              8</p>
+          </td>
+          <td style="width:198px;">
+            <p>
+              Intro to CSS</p>
+            <p>
+              Ruby Writing Your Own Methods</p>
+          </td>
+          <td style="width:226px;">
+            <p>
+              HTML, Chapters 8 &amp; 10</p>
+            <p>
+              Pine, Chapters 9</p>
+            <p>
+              &nbsp;</p>
+          </td>
+          <td style="width:355px;">
+            <p>
+              Week 4, due Sunday night (9/14, 11:59 p.m.)</p>
+            <p>
+              &middot;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; In-class exercises this week [5 pts]</p>
+            <p>
+              &middot;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Code Academy Ruby?</p>
+          </td>
+        </tr>
+        <tr>
+          <td style="width:54px;">
+            <p>
+              9/16</p>
+          </td>
+          <td style="width:32px;">
+            <p>
+              9</p>
+          </td>
+          <td style="width:198px;">
+            <p>
+              CSS Colors, Text, Images</p>
+            <p>
+              Embedding, Useful Tools</p>
+            <p>
+              Ruby: Reading &amp; Writing Files</p>
+          </td>
+          <td style="width:226px;">
+            <p>
+              HTML, Chapters 11, 12 &amp;16</p>
+            <p>
+              &nbsp;</p>
+            <p>
+              Skim HTML, Chapter 9</p>
+            <p>
+              Pine, Chapter 11</p>
+            <p>
+              &nbsp;</p>
+          </td>
+          <td style="width:355px;">
+            <p>
+              &nbsp;</p>
+          </td>
+        </tr>
+        <tr>
+          <td style="width:54px;">
+            <p>
+              9/18</p>
+          </td>
+          <td style="width:32px;">
+            <p>
+              10</p>
+          </td>
+          <td style="width:198px;">
+            <p>
+              HTML Tables</p>
+            <p>
+              CSS Boxes, Tables</p>
+            <p>
+              CSS Layout</p>
+          </td>
+          <td style="width:226px;">
+            <p>
+              HTML, Chapter 6</p>
+            <p>
+              HTML, Chapters 13 &amp; 14</p>
+            <p>
+              HTML, Chapter 16</p>
+          </td>
+          <td style="width:355px;">
+            <p>
+              &nbsp;</p>
+          </td>
+        </tr>
+        <tr>
+          <td style="width:54px;">
+            <p>
+              9/23</p>
+          </td>
+          <td style="width:32px;">
+            <p>
+              11</p>
+          </td>
+          <td style="width:198px;">
+            <p>
+              HTML Forms</p>
+            <p>
+              Ruby CGI</p>
+          </td>
+          <td style="width:226px;">
+            <p>
+              [Class only]</p>
+            <p>
+              HTML, Chapter 7</p>
+          </td>
+          <td style="width:355px;">
+            <p>
+              &nbsp;</p>
+          </td>
+        </tr>
+        <tr>
+          <td style="width:54px;">
+            <p>
+              &nbsp;</p>
+          </td>
+          <td style="width:32px;">
+            <p>
+              &nbsp;</p>
+          </td>
+          <td style="width:198px;">
+            <p>
+              JavaScript Basics</p>
+            <p>
+              Events &amp; jQuery</p>
+            <p>
+              Ruby Objects I</p>
+          </td>
+          <td style="width:226px;">
+            <p>
+              JavaScript, Chapters 2-5</p>
+            <p>
+              JavaScript, Chapters 2-7</p>
+            <p>
+              Pine, Chapter 12</p>
+          </td>
+          <td style="width:355px;">
+            <p>
+              &nbsp;</p>
+          </td>
+        </tr>
+        <tr>
+          <td style="width:54px;">
+            <p>
+              9/25</p>
+          </td>
+          <td style="width:32px;">
+            <p>
+              12</p>
+          </td>
+          <td style="width:198px;">
+            <p>
+              FLEX (ONA)</p>
+          </td>
+          <td style="width:226px;">
+            <p>
+              &nbsp;</p>
+          </td>
+          <td style="width:355px;">
+            <p>
+              &nbsp;</p>
+          </td>
+        </tr>
+        <tr>
+          <td style="width:54px;">
+            <p>
+              9/30</p>
+          </td>
+          <td style="width:32px;">
+            <p>
+              13</p>
+          </td>
+          <td style="width:198px;">
+            <p>
+              Midterm Exam</p>
+          </td>
+          <td style="width:226px;">
+            <p>
+              --</p>
+          </td>
+          <td style="width:355px;">
+            <p>
+              &nbsp;</p>
+          </td>
+        </tr>
+        <tr>
+          <td style="width:54px;">
+            <p>
+              10/2</p>
+          </td>
+          <td style="width:32px;">
+            <p>
+              &nbsp;</p>
+          </td>
+          <td style="width:198px;">
+            <p>
+              FALL BREAK</p>
+          </td>
+          <td style="width:226px;">
+            <p>
+              --</p>
+          </td>
+          <td style="width:355px;">
+            <p>
+              &nbsp;</p>
+          </td>
+        </tr>
+        <tr>
+          <td style="width:54px;">
+            <p>
+              10/7</p>
+          </td>
+          <td style="width:32px;">
+            <p>
+              14</p>
+          </td>
+          <td style="width:198px;">
+            <p>
+              JavaScript Ajax &amp; JSON, Forms</p>
+            <p>
+              Ruby Objects II</p>
+          </td>
+          <td style="width:226px;">
+            <p>
+              JavaScript, Chapters 8, 13</p>
+            <p>
+              Pine, Chapter 13</p>
+          </td>
+          <td style="width:355px;">
+            <p>
+              &nbsp;</p>
+          </td>
+        </tr>
+        <tr>
+          <td style="width:54px;">
+            <p>
+              10/9</p>
+          </td>
+          <td style="width:32px;">
+            <p>
+              15</p>
+          </td>
+          <td style="width:198px;">
+            <p>
+              Content Panels</p>
+            <p>
+              Ruby Blocks &amp; Procs</p>
+          </td>
+          <td style="width:226px;">
+            <p>
+              JavaScript, Chapter 11</p>
+            <p>
+              Pine, Chapter 14</p>
+          </td>
+          <td style="width:355px;">
+            <p>
+              &nbsp;</p>
+          </td>
+        </tr>
+        <tr>
+          <td style="width:54px;">
+            <p>
+              10/14</p>
+          </td>
+          <td style="width:32px;">
+            <p>
+              16</p>
+          </td>
+          <td style="width:198px;">
+            <p>
+              APIs</p>
+          </td>
+          <td style="width:226px;">
+            <p>
+              JavaScript, Chapter 9</p>
+          </td>
+          <td style="width:355px;">
+            <p>
+              &nbsp;</p>
+          </td>
+        </tr>
+        <tr>
+          <td style="width:54px;">
+            <p>
+              10/16</p>
+          </td>
+          <td style="width:32px;">
+            <p>
+              17</p>
+          </td>
+          <td style="width:198px;">
+            <p>
+              APIs</p>
+          </td>
+          <td style="width:226px;">
+            <p>
+              [Online TBA]</p>
+          </td>
+          <td style="width:355px;">
+            <p>
+              &nbsp;</p>
+          </td>
+        </tr>
+        <tr>
+          <td style="width:54px;">
+            <p>
+              10/21</p>
+          </td>
+          <td style="width:32px;">
+            <p>
+              18</p>
+          </td>
+          <td style="width:198px;">
+            <p>
+              Error Handling &amp; Debugging</p>
+          </td>
+          <td style="width:226px;">
+            <p>
+              JavaScript, Chapter 9</p>
+          </td>
+          <td style="width:355px;">
+            <p>
+              &nbsp;</p>
+          </td>
+        </tr>
+        <tr>
+          <td style="width:54px;">
+            <p>
+              10/23</p>
+          </td>
+          <td style="width:32px;">
+            <p>
+              19</p>
+          </td>
+          <td style="width:198px;">
+            <p>
+              Filtering, Searching &amp; Sorting</p>
+          </td>
+          <td style="width:226px;">
+            <p>
+              JavaScript, Chapter 12</p>
+          </td>
+          <td style="width:355px;">
+            <p>
+              &nbsp;</p>
+          </td>
+        </tr>
+        <tr>
+          <td style="width:54px;">
+            <p>
+              10/28</p>
+          </td>
+          <td style="width:32px;">
+            <p>
+              20</p>
+          </td>
+          <td style="width:198px;">
+            <p>
+              Misc. JavaScript Tools</p>
+          </td>
+          <td style="width:226px;">
+            <p>
+              [Online TBA]</p>
+          </td>
+          <td style="width:355px;">
+            <p>
+              &nbsp;</p>
+          </td>
+        </tr>
+        <tr>
+          <td style="width:54px;">
+            <p>
+              10/30</p>
+          </td>
+          <td style="width:32px;">
+            <p>
+              21</p>
+          </td>
+          <td style="width:198px;">
+            <p>
+              Web Frameworks</p>
+          </td>
+          <td style="width:226px;">
+            <p>
+              [Online TBA]</p>
+          </td>
+          <td style="width:355px;">
+            <p>
+              &nbsp;</p>
+          </td>
+        </tr>
+        <tr>
+          <td style="width:54px;">
+            <p>
+              11/4</p>
+          </td>
+          <td style="width:32px;">
+            <p>
+              22</p>
+          </td>
+          <td style="width:198px;">
+            <p>
+              Web Frameworks</p>
+          </td>
+          <td style="width:226px;">
+            <p>
+              [Online TBA]</p>
+          </td>
+          <td style="width:355px;">
+            <p>
+              &nbsp;</p>
+          </td>
+        </tr>
+        <tr>
+          <td style="width:54px;">
+            <p>
+              11/6</p>
+          </td>
+          <td style="width:32px;">
+            <p>
+              23</p>
+          </td>
+          <td style="width:198px;">
+            <p>
+              Web Frameworks</p>
+          </td>
+          <td style="width:226px;">
+            <p>
+              [Online TBA]</p>
+          </td>
+          <td style="width:355px;">
+            <p>
+              &nbsp;</p>
+          </td>
+        </tr>
+        <tr>
+          <td style="width:54px;">
+            <p>
+              11/11</p>
+          </td>
+          <td style="width:32px;">
+            <p>
+              24</p>
+          </td>
+          <td style="width:198px;">
+            <p>
+              Project work [JEA]</p>
+          </td>
+          <td style="width:226px;">
+            <p>
+              TBA</p>
+          </td>
+          <td style="width:355px;">
+            <p>
+              &nbsp;</p>
+          </td>
+        </tr>
+        <tr>
+          <td style="width:54px;">
+            <p>
+              11/13</p>
+          </td>
+          <td style="width:32px;">
+            <p>
+              25</p>
+          </td>
+          <td style="width:198px;">
+            <p>
+              Databases &amp; Web Frameworks</p>
+          </td>
+          <td style="width:226px;">
+            <p>
+              [Online TBA]</p>
+          </td>
+          <td style="width:355px;">
+            <p>
+              &nbsp;</p>
+          </td>
+        </tr>
+        <tr>
+          <td style="width:54px;">
+            <p>
+              11/18</p>
+          </td>
+          <td style="width:32px;">
+            <p>
+              26</p>
+          </td>
+          <td style="width:198px;">
+            <p>
+              Databases &amp; Web Frameworks</p>
+          </td>
+          <td style="width:226px;">
+            <p>
+              [Online TBA]</p>
+          </td>
+          <td style="width:355px;">
+            <p>
+              &nbsp;</p>
+          </td>
+        </tr>
+        <tr>
+          <td style="width:54px;">
+            <p>
+              11/20</p>
+          </td>
+          <td style="width:32px;">
+            <p>
+              27</p>
+          </td>
+          <td style="width:198px;">
+            <p>
+              SEO, Analytics, Publishing</p>
+          </td>
+          <td style="width:226px;">
+            <p>
+              HTML, Chapter 19</p>
+          </td>
+          <td style="width:355px;">
+            <p>
+              &nbsp;</p>
+          </td>
+        </tr>
+        <tr>
+          <td style="width:54px;">
+            <p>
+              11/25</p>
+          </td>
+          <td style="width:32px;">
+            <p>
+              28</p>
+          </td>
+          <td style="width:198px;">
+            <p>
+              [maybe] Ruby Recursions &amp; Sorting</p>
+          </td>
+          <td style="width:226px;">
+            <p>
+              Pine, Chapter 10</p>
+          </td>
+          <td style="width:355px;">
+            <p>
+              &nbsp;</p>
+          </td>
+        </tr>
+        <tr>
+          <td style="width:54px;">
+            <p>
+              11/27</p>
+          </td>
+          <td style="width:32px;">
+            <p>
+              &nbsp;</p>
+          </td>
+          <td style="width:198px;">
+            <p>
+              THANKSGIVING</p>
+          </td>
+          <td style="width:226px;">
+            <p>
+              --</p>
+          </td>
+          <td style="width:355px;">
+            <p>
+              &nbsp;</p>
+          </td>
+        </tr>
+        <tr>
+          <td style="width:54px;">
+            <p>
+              12/2</p>
+          </td>
+          <td style="width:32px;">
+            <p>
+              29</p>
+          </td>
+          <td style="width:198px;">
+            <p>
+              Project work</p>
+          </td>
+          <td style="width:226px;">
+            <p>
+              TBA</p>
+          </td>
+          <td style="width:355px;">
+            <p>
+              &nbsp;</p>
+          </td>
+        </tr>
+        <tr>
+          <td style="width:54px;">
+            <p>
+              12/4</p>
+          </td>
+          <td style="width:32px;">
+            <p>
+              30</p>
+          </td>
+          <td style="width:198px;">
+            <p>
+              Project work</p>
+          </td>
+          <td style="width:226px;">
+            <p>
+              TBA</p>
+          </td>
+          <td style="width:355px;">
+            <p>
+              &nbsp;</p>
+          </td>
+        </tr>
+        <tr>
+          <td style="width:54px;">
+            <p>
+              12/9</p>
+          </td>
+          <td style="width:32px;">
+            <p>
+              &nbsp;</p>
+          </td>
+          <td style="width:198px;">
+            <p>
+              2-5 p.m.: Final Exam</p>
+          </td>
+          <td style="width:226px;">
+            <p>
+              --</p>
+          </td>
+          <td style="width:355px;">
+            <p>
+              &nbsp;</p>
+          </td>
+        </tr>
+      </tbody>
+    </table>
