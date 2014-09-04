@@ -1,4 +1,5 @@
 <!-- converting from MS Word via http://htmleditor.in/index.html -->
+## markdown
 
     <p align="center">
       <strong>Course Calendar</strong></p>
