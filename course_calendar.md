@@ -1,6 +1,7 @@
 <!-- converting from MS Word via http://htmleditor.in/index.html -->
 ##Course Calendar
 ###JMS 302: Hacking the Media, Fall 2014
+
 <p>
 The following lays out the basic structure of the class. The schedule is subject to change based on the needs and progress of the course.&nbsp;Changes to the schedule are announced in class; even if you are absent for the announcement, you are still responsible for the assignment and must get it from a classmate.</p>
 <p>
@@ -256,15 +257,9 @@ Week 3, due Sunday night (9/7, 11:59 p.m.)</p>
 </td>
 <td style="width:198px;">
 <p>
-Intro to CSS</p>
-<p>
-Ruby Writing Your Own Methods</p>
+Ruby exercises</p>
 </td>
 <td style="width:226px;">
-<p>
-HTML, Chapters 8 &amp; 10</p>
-<p>
-Pine, Chapters 9</p>
 <p>
 &nbsp;</p>
 </td>
@@ -274,7 +269,7 @@ Week 4, due Sunday night (9/14, 11:59 p.m.)</p>
 <p>
 &middot;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; In-class exercises this week [5 pts]</p>
 <p>
-&middot;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Code Academy Ruby?</p>
+&middot;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Code Academy Ruby track through &ldquo;Redacted&rdquo; [5 pts]</p>
 </td>
 </tr>
 <tr>
@@ -288,21 +283,15 @@ Week 4, due Sunday night (9/14, 11:59 p.m.)</p>
 </td>
 <td style="width:198px;">
 <p>
-CSS Colors, Text, Images</p>
+Intro to CSS</p>
 <p>
-Embedding, Useful Tools</p>
-<p>
-Ruby: Reading &amp; Writing Files</p>
+Ruby Writing Your Own Methods</p>
 </td>
 <td style="width:226px;">
 <p>
-HTML, Chapters 11, 12 &amp;16</p>
+HTML, Chapters 8 &amp; 10</p>
 <p>
-&nbsp;</p>
-<p>
-Skim HTML, Chapter 9</p>
-<p>
-Pine, Chapter 11</p>
+Pine, Chapters 9</p>
 <p>
 &nbsp;</p>
 </td>
@@ -322,23 +311,19 @@ Pine, Chapter 11</p>
 </td>
 <td style="width:198px;">
 <p>
-HTML Tables</p>
-<p>
-CSS Boxes, Tables</p>
-<p>
-CSS Layout</p>
+[Class cancelled]</p>
 </td>
 <td style="width:226px;">
 <p>
-HTML, Chapter 6</p>
-<p>
-HTML, Chapters 13 &amp; 14</p>
-<p>
-HTML, Chapter 16</p>
+&nbsp;</p>
 </td>
 <td style="width:355px;">
 <p>
-&nbsp;</p>
+Week 5, due Monday night (9/22, 11:59 p.m.)</p>
+<p>
+&middot;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Pine, 9.5: 1<sup>st</sup> two exercises [5 pts]</p>
+<p>
+&middot;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Code Academy, Ruby track, Arrays &amp; Hashes and Blocks and Sorting sections (4 groups) [5 pts]</p>
 </td>
 </tr>
 <tr>
@@ -352,45 +337,27 @@ HTML, Chapter 16</p>
 </td>
 <td style="width:198px;">
 <p>
-HTML Forms</p>
+Ruby: Reading &amp; Writing Files</p>
 <p>
-Ruby CGI</p>
+CSS Colors, Text, Images</p>
+<p>
+Embedding, Useful Tools</p>
+<p>
+&nbsp;</p>
 </td>
 <td style="width:226px;">
 <p>
-[Class only]</p>
-<p>
-HTML, Chapter 7</p>
-</td>
-<td style="width:355px;">
+Pine, Chapter 11</p>
 <p>
 &nbsp;</p>
-</td>
-</tr>
-<tr>
-<td style="width:54px;">
+<p>
+HTML, Chapters 11, 12 &amp;16</p>
 <p>
 &nbsp;</p>
-</td>
-<td style="width:32px;">
+<p>
+Skim HTML, Chapter 9</p>
 <p>
 &nbsp;</p>
-</td>
-<td style="width:198px;">
-<p>
-JavaScript Basics</p>
-<p>
-Events &amp; jQuery</p>
-<p>
-Ruby Objects I</p>
-</td>
-<td style="width:226px;">
-<p>
-JavaScript, Chapters 2-5</p>
-<p>
-JavaScript, Chapters 2-7</p>
-<p>
-Pine, Chapter 12</p>
 </td>
 <td style="width:355px;">
 <p>
@@ -408,7 +375,7 @@ Pine, Chapter 12</p>
 </td>
 <td style="width:198px;">
 <p>
-FLEX (ONA)</p>
+Quiz</p>
 </td>
 <td style="width:226px;">
 <p>
@@ -416,7 +383,11 @@ FLEX (ONA)</p>
 </td>
 <td style="width:355px;">
 <p>
-&nbsp;</p>
+Week 6, due Sunday night (9/28, 11:59 p.m.)</p>
+<p>
+&middot;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Exercise TK</p>
+<p>
+&middot;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Code Academy, HTML (all 3 HTML sections, 8 groups) [5 pts]</p>
 </td>
 </tr>
 <tr>
@@ -430,11 +401,19 @@ FLEX (ONA)</p>
 </td>
 <td style="width:198px;">
 <p>
-Midterm Exam</p>
+HTML Tables</p>
+<p>
+CSS Boxes, Tables</p>
+<p>
+CSS Layout</p>
 </td>
 <td style="width:226px;">
 <p>
---</p>
+HTML, Chapter 6</p>
+<p>
+HTML, Chapters 13 &amp; 14</p>
+<p>
+HTML, Chapter 16</p>
 </td>
 <td style="width:355px;">
 <p>
@@ -474,6 +453,84 @@ FALL BREAK</p>
 </td>
 <td style="width:198px;">
 <p>
+HTML Forms</p>
+<p>
+Ruby CGI</p>
+</td>
+<td style="width:226px;">
+<p>
+[Class only]</p>
+<p>
+HTML, Chapter 7</p>
+</td>
+<td style="width:355px;">
+<p>
+&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td style="width:54px;">
+<p>
+10/9</p>
+</td>
+<td style="width:32px;">
+<p>
+15</p>
+</td>
+<td style="width:198px;">
+<p>
+Midterm Exam</p>
+</td>
+<td style="width:226px;">
+<p>
+&nbsp;</p>
+</td>
+<td style="width:355px;">
+<p>
+&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td style="width:54px;">
+<p>
+10/14</p>
+</td>
+<td style="width:32px;">
+<p>
+16</p>
+</td>
+<td style="width:198px;">
+<p>
+JavaScript Basics</p>
+<p>
+Events &amp; jQuery</p>
+<p>
+Ruby Objects I</p>
+</td>
+<td style="width:226px;">
+<p>
+JavaScript, Chapters 2-5</p>
+<p>
+JavaScript, Chapters 2-7</p>
+<p>
+Pine, Chapter 12</p>
+</td>
+<td style="width:355px;">
+<p>
+&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td style="width:54px;">
+<p>
+10/16</p>
+</td>
+<td style="width:32px;">
+<p>
+17</p>
+</td>
+<td style="width:198px;">
+<p>
 JavaScript Ajax &amp; JSON, Forms</p>
 <p>
 Ruby Objects II</p>
@@ -492,11 +549,11 @@ Pine, Chapter 13</p>
 <tr>
 <td style="width:54px;">
 <p>
-10/9</p>
+10/21</p>
 </td>
 <td style="width:32px;">
 <p>
-15</p>
+18</p>
 </td>
 <td style="width:198px;">
 <p>
@@ -518,72 +575,6 @@ Pine, Chapter 14</p>
 <tr>
 <td style="width:54px;">
 <p>
-10/14</p>
-</td>
-<td style="width:32px;">
-<p>
-16</p>
-</td>
-<td style="width:198px;">
-<p>
-APIs</p>
-</td>
-<td style="width:226px;">
-<p>
-JavaScript, Chapter 9</p>
-</td>
-<td style="width:355px;">
-<p>
-&nbsp;</p>
-</td>
-</tr>
-<tr>
-<td style="width:54px;">
-<p>
-10/16</p>
-</td>
-<td style="width:32px;">
-<p>
-17</p>
-</td>
-<td style="width:198px;">
-<p>
-APIs</p>
-</td>
-<td style="width:226px;">
-<p>
-[Online TBA]</p>
-</td>
-<td style="width:355px;">
-<p>
-&nbsp;</p>
-</td>
-</tr>
-<tr>
-<td style="width:54px;">
-<p>
-10/21</p>
-</td>
-<td style="width:32px;">
-<p>
-18</p>
-</td>
-<td style="width:198px;">
-<p>
-Error Handling &amp; Debugging</p>
-</td>
-<td style="width:226px;">
-<p>
-JavaScript, Chapter 9</p>
-</td>
-<td style="width:355px;">
-<p>
-&nbsp;</p>
-</td>
-</tr>
-<tr>
-<td style="width:54px;">
-<p>
 10/23</p>
 </td>
 <td style="width:32px;">
@@ -592,11 +583,11 @@ JavaScript, Chapter 9</p>
 </td>
 <td style="width:198px;">
 <p>
-Filtering, Searching &amp; Sorting</p>
+APIs</p>
 </td>
 <td style="width:226px;">
 <p>
-JavaScript, Chapter 12</p>
+JavaScript, Chapter 9</p>
 </td>
 <td style="width:355px;">
 <p>
@@ -614,7 +605,7 @@ JavaScript, Chapter 12</p>
 </td>
 <td style="width:198px;">
 <p>
-Misc. JavaScript Tools</p>
+APIs</p>
 </td>
 <td style="width:226px;">
 <p>
@@ -636,11 +627,11 @@ Misc. JavaScript Tools</p>
 </td>
 <td style="width:198px;">
 <p>
-Web Frameworks</p>
+Error Handling &amp; Debugging</p>
 </td>
 <td style="width:226px;">
 <p>
-[Online TBA]</p>
+JavaScript, Chapter 9</p>
 </td>
 <td style="width:355px;">
 <p>
@@ -658,11 +649,11 @@ Web Frameworks</p>
 </td>
 <td style="width:198px;">
 <p>
-Web Frameworks</p>
+Filtering, Searching &amp; Sorting</p>
 </td>
 <td style="width:226px;">
 <p>
-[Online TBA]</p>
+JavaScript, Chapter 12</p>
 </td>
 <td style="width:355px;">
 <p>
@@ -680,11 +671,11 @@ Web Frameworks</p>
 </td>
 <td style="width:198px;">
 <p>
-Web Frameworks</p>
+Project work [JEA]</p>
 </td>
 <td style="width:226px;">
 <p>
-[Online TBA]</p>
+TBA</p>
 </td>
 <td style="width:355px;">
 <p>
@@ -702,11 +693,11 @@ Web Frameworks</p>
 </td>
 <td style="width:198px;">
 <p>
-Project work [JEA]</p>
+Misc. JavaScript Tools</p>
 </td>
 <td style="width:226px;">
 <p>
-TBA</p>
+[Online TBA]</p>
 </td>
 <td style="width:355px;">
 <p>
@@ -724,7 +715,7 @@ TBA</p>
 </td>
 <td style="width:198px;">
 <p>
-Databases &amp; Web Frameworks</p>
+Web Frameworks</p>
 </td>
 <td style="width:226px;">
 <p>
@@ -746,7 +737,7 @@ Databases &amp; Web Frameworks</p>
 </td>
 <td style="width:198px;">
 <p>
-Databases &amp; Web Frameworks</p>
+Web Frameworks</p>
 </td>
 <td style="width:226px;">
 <p>
@@ -768,11 +759,11 @@ Databases &amp; Web Frameworks</p>
 </td>
 <td style="width:198px;">
 <p>
-SEO, Analytics, Publishing</p>
+Databases &amp; Web Frameworks</p>
 </td>
 <td style="width:226px;">
 <p>
-HTML, Chapter 19</p>
+[Online TBA]</p>
 </td>
 <td style="width:355px;">
 <p>
@@ -790,11 +781,11 @@ HTML, Chapter 19</p>
 </td>
 <td style="width:198px;">
 <p>
-[maybe] Ruby Recursions &amp; Sorting</p>
+Databases &amp; Web Frameworks</p>
 </td>
 <td style="width:226px;">
 <p>
-Pine, Chapter 10</p>
+[Online TBA]</p>
 </td>
 <td style="width:355px;">
 <p>
@@ -834,11 +825,11 @@ THANKSGIVING</p>
 </td>
 <td style="width:198px;">
 <p>
-Project work</p>
+SEO, Analytics, Publishing</p>
 </td>
 <td style="width:226px;">
 <p>
-TBA</p>
+HTML, Chapter 19</p>
 </td>
 <td style="width:355px;">
 <p>
@@ -853,6 +844,50 @@ TBA</p>
 <td style="width:32px;">
 <p>
 30</p>
+</td>
+<td style="width:198px;">
+<p>
+[maybe] Ruby Recursions &amp; Sorting</p>
+</td>
+<td style="width:226px;">
+<p>
+Pine, Chapter 10</p>
+</td>
+<td style="width:355px;">
+<p>
+&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td style="width:54px;">
+<p>
+&nbsp;</p>
+</td>
+<td style="width:32px;">
+<p>
+&nbsp;</p>
+</td>
+<td style="width:198px;">
+<p>
+Project work</p>
+</td>
+<td style="width:226px;">
+<p>
+TBA</p>
+</td>
+<td style="width:355px;">
+<p>
+&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td style="width:54px;">
+<p>
+&nbsp;</p>
+</td>
+<td style="width:32px;">
+<p>
+&nbsp;</p>
 </td>
 <td style="width:198px;">
 <p>
@@ -891,3 +926,5 @@ TBA</p>
 </tr>
 </tbody>
 </table>
+<p>
+&nbsp;</p>
