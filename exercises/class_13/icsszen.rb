@@ -7,6 +7,17 @@ def write_file(file_name, css_properties)
 body {
     background: #{ css_properties['background-color'] };
 }
+
+a:link, a:visited, a:hover {
+    text-decoration: #{ if css_properties['underline?'] == 'y'
+            'underline'
+        else
+            'none'
+        end
+    };
+    color: #{ css_properties['link-color'] };
+}
+
         EOF
     end
 end
@@ -19,4 +30,6 @@ end
 
 # css_properties['background-color'] = "yellow"
 ask "What would you like the background color to be?", "background-color", css_properties
+ask "What color would you like for links?", "link-color", css_properties
+ask "Would you like links underlined?", "underline?", css_properties
 write_file file_name, css_properties
