@@ -1,8 +1,7 @@
-
 def get_grade
   puts "Enter a grade or type 'done'."
   grade = gets.chomp
-  grade
+  grade # not needed since the assignment above returns the value of grade
 end
 
 def calculate_average(grades)
