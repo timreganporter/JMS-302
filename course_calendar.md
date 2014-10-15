@@ -495,19 +495,11 @@ Week 8, due Sunday night (10/12, 11:59 p.m.)</p>
 </td>
 <td style="width:198px;">
 <p>
-HTML Tables</p>
-<p>
-CSS Boxes, Tables</p>
-<p>
-CSS Layout</p>
+Exam review, new problem set</p>
 </td>
 <td style="width:226px;">
 <p>
-HTML, Chapter 6</p>
-<p>
-HTML, Chapters 13 &amp; 14</p>
-<p>
-HTML, Chapter 16</p>
+&nbsp;</p>
 </td>
 <td style="width:355px;">
 <p>
@@ -525,23 +517,27 @@ HTML, Chapter 16</p>
 </td>
 <td style="width:198px;">
 <p>
-HTML Forms</p>
+HTML Tables</p>
 <p>
-Ruby CGI</p>
+CSS Boxes, Tables</p>
+<p>
+CSS Layout</p>
 </td>
 <td style="width:226px;">
 <p>
-HTML, Chapter 7</p>
+HTML, Chapter 6</p>
 <p>
-[Class only]</p>
+HTML, Chapters 13 &amp; 14</p>
+<p>
+HTML, Chapter 16</p>
 </td>
 <td style="width:355px;">
 <p>
 Week 9, due Sunday night (10/19, 11:50 p.m.)</p>
 <p>
-&middot;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; TK</p>
+&middot;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Problem set</p>
 <p>
-&middot;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Code Academy:&nbsp; (Ruby) Object-Oriented Programming, Part 1; Blocks, Procs, and Lambdas; (JavaScript) Introduction to JavaScript; Functions; &lsquo;For&rsquo; Loops in JavaScript</p>
+&middot;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Code Academy:&nbsp; (Ruby) Object-Oriented Programming, Part 1; Blocks, Procs, and Lambdas;</p>
 </td>
 </tr>
 <tr>
@@ -555,19 +551,15 @@ Week 9, due Sunday night (10/19, 11:50 p.m.)</p>
 </td>
 <td style="width:198px;">
 <p>
-JavaScript Basics</p>
+HTML Forms</p>
 <p>
-Events &amp; jQuery</p>
-<p>
-Ruby Objects I</p>
+Ruby CGI</p>
 </td>
 <td style="width:226px;">
 <p>
-JavaScript, Chapters 2-5</p>
+HTML, Chapter 7</p>
 <p>
-JavaScript, Chapters 2-7</p>
-<p>
-Pine, Chapter 12</p>
+[Class only]</p>
 </td>
 <td style="width:355px;">
 <p>
@@ -585,23 +577,19 @@ Pine, Chapter 12</p>
 </td>
 <td style="width:198px;">
 <p>
-JavaScript Ajax &amp; JSON, Forms</p>
-<p>
-Ruby Objects II</p>
+Ruby Objects</p>
 </td>
 <td style="width:226px;">
 <p>
-JavaScript, Chapters 8, 13</p>
-<p>
-Pine, Chapter 13</p>
+Pine, Chapter 12 &amp; 13</p>
 </td>
 <td style="width:355px;">
 <p>
 Week 10</p>
 <p>
-&middot;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; TK</p>
+&middot;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Problem set (TK)</p>
 <p>
-&middot;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Code Academy:&nbsp; (Ruby) Object-Oriented Programming, Part II;</p>
+&middot;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Code Academy:&nbsp; (Ruby) Object-Oriented Programming, Part II ; (JavaScript) Introduction to JavaScript; Functions; &lsquo;For&rsquo; Loops in JavaScript</p>
 </td>
 </tr>
 <tr>
@@ -615,15 +603,15 @@ Week 10</p>
 </td>
 <td style="width:198px;">
 <p>
-Content Panels</p>
+JavaScript Basics</p>
 <p>
-Ruby Blocks &amp; Procs</p>
+Events &amp; jQuery</p>
 </td>
 <td style="width:226px;">
 <p>
-JavaScript, Chapter 11</p>
+JavaScript, Chapters 2-5</p>
 <p>
-Pine, Chapter 14</p>
+JavaScript, Chapters 6-7</p>
 </td>
 <td style="width:355px;">
 <p>
@@ -641,11 +629,17 @@ Pine, Chapter 14</p>
 </td>
 <td style="width:198px;">
 <p>
-APIs</p>
+JavaScript Ajax &amp; JSON, Forms</p>
+<p>
+Ruby Blocks &amp; Procs</p>
 </td>
 <td style="width:226px;">
 <p>
-JavaScript, Chapter 9</p>
+JavaScript, Chapters 8, 13</p>
+<p>
+&nbsp;</p>
+<p>
+Pine, Chapter 14</p>
 </td>
 <td style="width:355px;">
 <p>
@@ -663,11 +657,15 @@ Week 11</p>
 </td>
 <td style="width:198px;">
 <p>
+Content Panels</p>
+<p>
 APIs</p>
 </td>
 <td style="width:226px;">
 <p>
-[Online TBA]</p>
+JavaScript, Chapter 11</p>
+<p>
+JavaScript, Chapter 9</p>
 </td>
 <td style="width:355px;">
 <p>
