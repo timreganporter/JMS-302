@@ -520,24 +520,18 @@ Exam review, new problem set</p>
 HTML Tables</p>
 <p>
 CSS Boxes, Tables</p>
-<p>
-CSS Layout</p>
 </td>
 <td style="width:226px;">
 <p>
 HTML, Chapter 6</p>
 <p>
 HTML, Chapters 13 &amp; 14</p>
-<p>
-HTML, Chapter 16</p>
 </td>
 <td style="width:355px;">
 <p>
-Week 9, due Sunday night (10/19, 11:50 p.m.)</p>
+Week 9, due Tue night (10/16, 11:50 p.m.)</p>
 <p>
-&middot;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Problem set</p>
-<p>
-&middot;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Code Academy:&nbsp; (Ruby) Object-Oriented Programming, Part 1; Blocks, Procs, and Lambdas;</p>
+&middot;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Problem set [20 pts, 5 per problem]</p>
 </td>
 </tr>
 <tr>
@@ -563,7 +557,9 @@ HTML, Chapter 7</p>
 </td>
 <td style="width:355px;">
 <p>
-&nbsp;</p>
+Week 9b, due Wed night (10/20, 11:59 p.m.)</p>
+<p>
+&middot;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Code Academy:&nbsp; (Ruby) Object-Oriented Programming, Part 1; Blocks, Procs, and Lambdas [5 pts]</p>
 </td>
 </tr>
 <tr>
@@ -578,10 +574,14 @@ HTML, Chapter 7</p>
 <td style="width:198px;">
 <p>
 Ruby Objects</p>
+<p>
+CSS Layout</p>
 </td>
 <td style="width:226px;">
 <p>
 Pine, Chapter 12 &amp; 13</p>
+<p>
+HTML, Chapter 15</p>
 </td>
 <td style="width:355px;">
 <p>
