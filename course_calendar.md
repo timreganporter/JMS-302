@@ -519,17 +519,17 @@ Exam review, new problem set</p>
 <p>
 HTML Tables</p>
 <p>
-CSS Boxes, Tables</p>
+CSS Boxes</p>
 </td>
 <td style="width:226px;">
 <p>
 HTML, Chapter 6</p>
 <p>
-HTML, Chapters 13 &amp; 14</p>
+HTML, Chapters 13</p>
 </td>
 <td style="width:355px;">
 <p>
-Week 9, due Tue night (10/16, 11:50 p.m.)</p>
+Week 9, due Tue night (10/16, 11:59 p.m.)</p>
 <p>
 &middot;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Problem set [20 pts, 5 per problem]</p>
 </td>
@@ -545,21 +545,15 @@ Week 9, due Tue night (10/16, 11:50 p.m.)</p>
 </td>
 <td style="width:198px;">
 <p>
-HTML Forms</p>
-<p>
-Ruby CGI</p>
+Problem Set</p>
 </td>
 <td style="width:226px;">
 <p>
-HTML, Chapter 7</p>
-<p>
-[Class only]</p>
+&nbsp;</p>
 </td>
 <td style="width:355px;">
 <p>
-Week 9b, due Wed night (10/20, 11:59 p.m.)</p>
-<p>
-&middot;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Code Academy:&nbsp; (Ruby) Object-Oriented Programming, Part 1; Blocks, Procs, and Lambdas [5 pts]</p>
+&middot;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;</p>
 </td>
 </tr>
 <tr>
@@ -573,23 +567,19 @@ Week 9b, due Wed night (10/20, 11:59 p.m.)</p>
 </td>
 <td style="width:198px;">
 <p>
-Ruby Objects</p>
-<p>
-CSS Layout</p>
+Problem Set</p>
 </td>
 <td style="width:226px;">
 <p>
-Pine, Chapter 12 &amp; 13</p>
-<p>
-HTML, Chapter 15</p>
+&nbsp;</p>
 </td>
 <td style="width:355px;">
 <p>
 Week 10</p>
 <p>
-&middot;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Problem set (TK)</p>
+&middot;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; none</p>
 <p>
-&middot;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Code Academy:&nbsp; (Ruby) Object-Oriented Programming, Part II ; (JavaScript) Introduction to JavaScript; Functions; &lsquo;For&rsquo; Loops in JavaScript</p>
+&nbsp;</p>
 </td>
 </tr>
 <tr>
@@ -603,15 +593,11 @@ Week 10</p>
 </td>
 <td style="width:198px;">
 <p>
-JavaScript Basics</p>
-<p>
-Events &amp; jQuery</p>
+Sinatra Intro</p>
 </td>
 <td style="width:226px;">
 <p>
-JavaScript, Chapters 2-5</p>
-<p>
-JavaScript, Chapters 6-7</p>
+&nbsp;</p>
 </td>
 <td style="width:355px;">
 <p>
@@ -629,21 +615,19 @@ JavaScript, Chapters 6-7</p>
 </td>
 <td style="width:198px;">
 <p>
-JavaScript Ajax &amp; JSON, Forms</p>
-<p>
-Ruby Blocks &amp; Procs</p>
+Sinatra Apps</p>
 </td>
 <td style="width:226px;">
 <p>
-JavaScript, Chapters 8, 13</p>
-<p>
 &nbsp;</p>
-<p>
-Pine, Chapter 14</p>
 </td>
 <td style="width:355px;">
 <p>
-Week 11</p>
+Week 11, due Tue night (11/4, 11:59 p.m.)</p>
+<p>
+&middot;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Problem set for week 10 (iTunes mimicry)</p>
+<p>
+&middot;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Readings (expect a quiz)</p>
 </td>
 </tr>
 <tr>
@@ -657,15 +641,19 @@ Week 11</p>
 </td>
 <td style="width:198px;">
 <p>
-Content Panels</p>
+Forms (HTML &amp; CSS)</p>
 <p>
-APIs</p>
+CSS Layout</p>
+<p>
+Sinatra (post, folders)</p>
+<p>
+Bootstrap</p>
 </td>
 <td style="width:226px;">
 <p>
-JavaScript, Chapter 11</p>
+HTML, Chapter 7 &amp; 14</p>
 <p>
-JavaScript, Chapter 9</p>
+HTML, Chapter 15</p>
 </td>
 <td style="width:355px;">
 <p>
@@ -683,7 +671,9 @@ JavaScript, Chapter 9</p>
 </td>
 <td style="width:198px;">
 <p>
-Project work [JEA]</p>
+Problem Set &amp; Project Work</p>
+<p>
+Optional class (video instruction)</p>
 </td>
 <td style="width:226px;">
 <p>
@@ -691,7 +681,11 @@ TBA</p>
 </td>
 <td style="width:355px;">
 <p>
-Week 12</p>
+Week 12, due Tue night (11/11, 11:59 p.m.)</p>
+<p>
+&middot;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Problem set</p>
+<p>
+&middot;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Sign up for Twitter API key</p>
 </td>
 </tr>
 <tr>
@@ -705,11 +699,13 @@ Week 12</p>
 </td>
 <td style="width:198px;">
 <p>
-Error Handling &amp; Debugging</p>
+Bootstrap</p>
+<p>
+Databases</p>
 </td>
 <td style="width:226px;">
 <p>
-JavaScript, Chapter 9</p>
+&nbsp;</p>
 </td>
 <td style="width:355px;">
 <p>
@@ -727,11 +723,13 @@ JavaScript, Chapter 9</p>
 </td>
 <td style="width:198px;">
 <p>
-Filtering, Searching &amp; Sorting</p>
+Databases</p>
+<p>
+Twitter API</p>
 </td>
 <td style="width:226px;">
 <p>
-JavaScript, Chapter 12</p>
+&nbsp;</p>
 </td>
 <td style="width:355px;">
 <p>
@@ -749,11 +747,11 @@ Week 13</p>
 </td>
 <td style="width:198px;">
 <p>
-Misc. JavaScript Tools</p>
+More APIs</p>
 </td>
 <td style="width:226px;">
 <p>
-[Online TBA]</p>
+&nbsp;</p>
 </td>
 <td style="width:355px;">
 <p>
@@ -771,11 +769,13 @@ Misc. JavaScript Tools</p>
 </td>
 <td style="width:198px;">
 <p>
-Web Frameworks</p>
+More APIs</p>
+<p>
+Project Work</p>
 </td>
 <td style="width:226px;">
 <p>
-[Online TBA]</p>
+&nbsp;</p>
 </td>
 <td style="width:355px;">
 <p>
@@ -793,11 +793,11 @@ Week 14</p>
 </td>
 <td style="width:198px;">
 <p>
-Web Frameworks</p>
+Project Work</p>
 </td>
 <td style="width:226px;">
 <p>
-[Online TBA]</p>
+&nbsp;</p>
 </td>
 <td style="width:355px;">
 <p>
@@ -837,11 +837,11 @@ THANKSGIVING</p>
 </td>
 <td style="width:198px;">
 <p>
-Databases &amp; Web Frameworks</p>
+Project Work (no class)</p>
 </td>
 <td style="width:226px;">
 <p>
-[Online TBA]</p>
+&nbsp;</p>
 </td>
 <td style="width:355px;">
 <p>
@@ -859,15 +859,251 @@ Databases &amp; Web Frameworks</p>
 </td>
 <td style="width:198px;">
 <p>
-Databases &amp; Web Frameworks</p>
+Project Work</p>
+<p>
+Final Review</p>
 </td>
 <td style="width:226px;">
 <p>
-[Online TBA]</p>
+&nbsp;</p>
 </td>
 <td style="width:355px;">
 <p>
 Week 15</p>
+</td>
+</tr>
+<tr>
+<td style="width:54px;">
+<p>
+12/9</p>
+</td>
+<td style="width:32px;">
+<p>
+&nbsp;</p>
+</td>
+<td style="width:198px;">
+<p>
+2-5 p.m.: Final Exam</p>
+</td>
+<td style="width:226px;">
+<p>
+--</p>
+</td>
+<td style="width:355px;">
+<p>
+&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td style="width:54px;">
+<p>
+&nbsp;</p>
+</td>
+<td style="width:32px;">
+<p>
+&nbsp;</p>
+</td>
+<td style="width:198px;">
+<p>
+&nbsp;</p>
+</td>
+<td style="width:226px;">
+<p>
+&nbsp;</p>
+</td>
+<td style="width:355px;">
+<p>
+&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td style="width:54px;">
+<p>
+&nbsp;</p>
+</td>
+<td style="width:32px;">
+<p>
+&nbsp;</p>
+</td>
+<td style="width:198px;">
+<p>
+MAYBE</p>
+</td>
+<td style="width:226px;">
+<p>
+&nbsp;</p>
+</td>
+<td style="width:355px;">
+<p>
+&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td style="width:54px;">
+<p>
+&nbsp;</p>
+</td>
+<td style="width:32px;">
+<p>
+&nbsp;</p>
+</td>
+<td style="width:198px;">
+<p>
+Ruby Objects</p>
+</td>
+<td style="width:226px;">
+<p>
+Pine, Chapter 12 &amp; 13</p>
+</td>
+<td style="width:355px;">
+<p>
+Code Academy:&nbsp; (Ruby) Object-Oriented Programming, Part 1; Blocks, Procs, and Lambdas [5 pts]; (Ruby) Object-Oriented Programming, Part II</p>
+</td>
+</tr>
+<tr>
+<td style="width:54px;">
+<p>
+&nbsp;</p>
+</td>
+<td style="width:32px;">
+<p>
+&nbsp;</p>
+</td>
+<td style="width:198px;">
+<p>
+JavaScript Basics</p>
+<p>
+Events &amp; jQuery</p>
+</td>
+<td style="width:226px;">
+<p>
+JavaScript, Chapters 2-5</p>
+<p>
+JavaScript, Chapters 6-7</p>
+</td>
+<td style="width:355px;">
+<p>
+Code Academy; (JavaScript) Introduction to JavaScript; Functions; &lsquo;For&rsquo; Loops in JavaScript</p>
+</td>
+</tr>
+<tr>
+<td style="width:54px;">
+<p>
+&nbsp;</p>
+</td>
+<td style="width:32px;">
+<p>
+&nbsp;</p>
+</td>
+<td style="width:198px;">
+<p>
+JavaScript Ajax &amp; JSON, Forms</p>
+<p>
+Ruby Blocks &amp; Procs</p>
+</td>
+<td style="width:226px;">
+<p>
+JavaScript, Chapters 8, 13</p>
+<p>
+&nbsp;</p>
+<p>
+Pine, Chapter 14</p>
+</td>
+<td style="width:355px;">
+<p>
+&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td style="width:54px;">
+<p>
+&nbsp;</p>
+</td>
+<td style="width:32px;">
+<p>
+&nbsp;</p>
+</td>
+<td style="width:198px;">
+<p>
+Error Handling &amp; Debugging</p>
+</td>
+<td style="width:226px;">
+<p>
+JavaScript, Chapter 9</p>
+</td>
+<td style="width:355px;">
+<p>
+&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td style="width:54px;">
+<p>
+&nbsp;</p>
+</td>
+<td style="width:32px;">
+<p>
+&nbsp;</p>
+</td>
+<td style="width:198px;">
+<p>
+Content Panels</p>
+<p>
+JavaScript APIs</p>
+</td>
+<td style="width:226px;">
+<p>
+JavaScript, Chapter 11</p>
+<p>
+JavaScript, Chapter 9</p>
+</td>
+<td style="width:355px;">
+<p>
+&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td style="width:54px;">
+<p>
+&nbsp;</p>
+</td>
+<td style="width:32px;">
+<p>
+&nbsp;</p>
+</td>
+<td style="width:198px;">
+<p>
+Filtering, Searching &amp; Sorting</p>
+</td>
+<td style="width:226px;">
+<p>
+JavaScript, Chapter 12</p>
+</td>
+<td style="width:355px;">
+<p>
+&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td style="width:54px;">
+<p>
+&nbsp;</p>
+</td>
+<td style="width:32px;">
+<p>
+&nbsp;</p>
+</td>
+<td style="width:198px;">
+<p>
+Misc. JavaScript Tools</p>
+</td>
+<td style="width:226px;">
+<p>
+&nbsp;</p>
+</td>
+<td style="width:355px;">
+<p>
+&nbsp;</p>
 </td>
 </tr>
 <tr>
@@ -908,72 +1144,6 @@ HTML, Chapter 19</p>
 <td style="width:226px;">
 <p>
 Pine, Chapter 10</p>
-</td>
-<td style="width:355px;">
-<p>
-&nbsp;</p>
-</td>
-</tr>
-<tr>
-<td style="width:54px;">
-<p>
-&nbsp;</p>
-</td>
-<td style="width:32px;">
-<p>
-&nbsp;</p>
-</td>
-<td style="width:198px;">
-<p>
-Project work</p>
-</td>
-<td style="width:226px;">
-<p>
-TBA</p>
-</td>
-<td style="width:355px;">
-<p>
-&nbsp;</p>
-</td>
-</tr>
-<tr>
-<td style="width:54px;">
-<p>
-&nbsp;</p>
-</td>
-<td style="width:32px;">
-<p>
-&nbsp;</p>
-</td>
-<td style="width:198px;">
-<p>
-Project work</p>
-</td>
-<td style="width:226px;">
-<p>
-TBA</p>
-</td>
-<td style="width:355px;">
-<p>
-&nbsp;</p>
-</td>
-</tr>
-<tr>
-<td style="width:54px;">
-<p>
-12/9</p>
-</td>
-<td style="width:32px;">
-<p>
-&nbsp;</p>
-</td>
-<td style="width:198px;">
-<p>
-2-5 p.m.: Final Exam</p>
-</td>
-<td style="width:226px;">
-<p>
---</p>
 </td>
 <td style="width:355px;">
 <p>

@@ -1,6 +1,11 @@
 require 'sinatra'
 
-get '/throw/:choice' do
+get '/' do
+    erb :home
+end
+
+#get '/throw/:choice' do
+get '/throw' do
     # hash of what beats what
     beats = {
         "Rock" => "Scissors",
@@ -32,13 +37,27 @@ end
 
 __END__
 
+@@home
+<!DOCTYPE html>
+<html>
+    <head><title>Rock, Paper, Scissors (FORM)</title></head>
+    <body>
+        <h1>Rock, Paper, Scissors (FORM)</h1>
+        <p>Enter Rock, Paper or Scissors</p>
+        <form action="/throw" method="get">
+            <input type="text" name="choice" />x`
+        </form>
+    </body>
+</html>
+    
+
 @@throw
 
 <!DOCTYPE html>
 <html>
-    <head><title>Rock, Paper, Scissors (URL)</title></head>
+    <head><title>Rock, Paper, Scissors (Form)</title></head>
     <body>
-        <h1>Rock, Paper, Scissors (URL)</h1>
+        <h1>Rock, Paper, Scissors (Form)</h1>
         <h2>Your results:</h2>
         <%= @results %>
     </body>
